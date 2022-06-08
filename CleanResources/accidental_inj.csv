@@ -1,0 +1,2001 @@
+ID,Incident_Date,State,CityorCounty,Num_Killed,Num_Injured
+2322276,6-Jun-22,Illinois,Chicago,0,1
+2323055,5-Jun-22,Mississippi,Laurel,0,1
+2322150,5-Jun-22,North Carolina,Goldsboro,0,1
+2322907,5-Jun-22,South Carolina,Charleston,0,1
+2322048,5-Jun-22,Illinois,Chicago,0,1
+2321145,4-Jun-22,Kentucky,Louisville,0,1
+2320914,4-Jun-22,Illinois,Chicago,0,1
+2320608,4-Jun-22,Ohio,Columbus,0,1
+2320734,3-Jun-22,Texas,Lubbock,0,1
+2320580,3-Jun-22,Illinois,Chicago,0,1
+2319593,2-Jun-22,Virginia,Portsmouth,0,1
+2319110,2-Jun-22,Florida,Lake City,0,1
+2320789,2-Jun-22,Ohio,Wapakoneta,0,2
+2320019,2-Jun-22,Utah,Bountiful,0,1
+2320472,2-Jun-22,Indiana,Franklin,0,1
+2318994,1-Jun-22,Texas,Houston,0,1
+2319954,1-Jun-22,Ohio,Akron,0,1
+2318793,1-Jun-22,Pennsylvania,Towanda,0,1
+2320470,1-Jun-22,Alabama,Bessemer,0,1
+2318328,31-May-22,Texas,Houston,0,1
+2317415,31-May-22,Indiana,Fort Wayne,0,2
+2317930,31-May-22,Maryland,Baltimore,0,1
+2317539,30-May-22,New York,Corona (Queens),0,1
+2316335,30-May-22,Texas,Port Arthur,0,1
+2319294,30-May-22,Florida,Sarasota (Siesta Key),0,1
+2316133,30-May-22,Georgia,Atlanta,0,1
+2316144,30-May-22,Arizona,Phoenix,0,1
+2315621,29-May-22,Illinois,Decatur,0,1
+2314897,28-May-22,Oregon,Portland,0,1
+2317620,28-May-22,Minnesota,Minneapolis,0,1
+2314856,28-May-22,Pennsylvania,Philadelphia,0,1
+2315473,28-May-22,Texas,Austin,0,2
+2314755,28-May-22,New York,New York (Manhattan),0,1
+2314885,27-May-22,Oregon,Portland,0,2
+2314057,27-May-22,Minnesota,Minneapolis,0,1
+2314449,27-May-22,Kansas,Salina,1,1
+2314127,27-May-22,Illinois,Chicago,0,3
+2314157,27-May-22,Montana,Missoula,0,1
+2315884,27-May-22,Minnesota,Karlstad (Standquist),0,2
+2312972,26-May-22,Tennessee,Memphis,0,1
+2318211,26-May-22,Ohio,Greenville,0,1
+2313630,26-May-22,Oklahoma,Bethany,0,1
+2312998,26-May-22,Texas,Arlington,0,1
+2313362,26-May-22,Mississippi,Jackson,0,1
+2313351,26-May-22,Louisiana,Baton Rouge,0,1
+2317750,26-May-22,Texas,Lake Jackson,0,1
+2312543,26-May-22,Kentucky,Louisville,0,1
+2315702,26-May-22,Michigan,Ecorse,0,1
+2312441,25-May-22,Idaho,Grangeville,0,1
+2311845,25-May-22,Georgia,Forsyth,0,2
+2316917,25-May-22,South Dakota,Yankton,0,1
+2310798,24-May-22,South Carolina,North Charleston,0,1
+2312171,24-May-22,Michigan,Saginaw,0,2
+2310130,24-May-22,Alabama,Birmingham,0,2
+2312614,24-May-22,California,Lemon Grove,0,1
+2311001,24-May-22,Wisconsin,Milwaukee,0,1
+2312322,23-May-22,Illinois,Freeport,0,1
+2310144,23-May-22,Pennsylvania,Catasauqua,0,1
+2310147,22-May-22,Iowa,Waukon,0,1
+2310142,22-May-22,Georgia,Toccoa,0,1
+2308918,22-May-22,New York,New York (Manhattan),0,1
+2308357,21-May-22,Illinois,Chicago,0,1
+2307939,21-May-22,Florida,Orlando,0,1
+2309662,21-May-22,Virginia,Richmond,0,1
+2306593,19-May-22,Virginia,Christiansburg,0,1
+2306667,19-May-22,Virginia,Virginia Beach,0,1
+2306464,19-May-22,Washington,Federal Way,0,1
+2307799,19-May-22,Arkansas,Mena,1,0
+2307510,18-May-22,Ohio,Attica,0,1
+2306392,18-May-22,Florida,Dade City,1,2
+2305534,18-May-22,Kentucky,Lexington,0,1
+2306266,18-May-22,New Mexico,Santa Fe,0,1
+2306688,18-May-22,Illinois,Champaign,0,2
+2304854,17-May-22,Illinois,Chicago,0,1
+2304207,16-May-22,Louisiana,Shreveport,0,1
+2304675,16-May-22,Michigan,Muskegon,0,1
+2304627,16-May-22,Ohio,Columbus,1,1
+2304396,16-May-22,Washington,Lacrosse (La Crosse),0,1
+2304282,16-May-22,Minnesota,Saint Paul,0,1
+2306136,15-May-22,Tennessee,Dyersburg,0,1
+2303193,15-May-22,Pennsylvania,Pittsburgh,0,1
+2303845,15-May-22,Missouri,Saint Louis,0,1
+2304394,15-May-22,Washington,Pullman,0,1
+2304235,14-May-22,Ohio,Painesville,0,1
+2302491,14-May-22,Ohio,Columbus,0,1
+2301841,14-May-22,Ohio,Columbus,0,1
+2302483,14-May-22,Minnesota,Minneapolis (Edina),0,1
+2301692,14-May-22,Indiana,Indianapolis,0,3
+2303421,14-May-22,Illinois,Chicago,0,1
+2301434,13-May-22,Pennsylvania,Drexel Hill,0,1
+2302239,13-May-22,North Carolina,Gastonia,0,1
+2301830,13-May-22,Pennsylvania,Philadelphia,0,1
+2301049,13-May-22,Missouri,Saint Louis,0,1
+2301767,13-May-22,Georgia,Lagrange,0,1
+2300857,12-May-22,Ohio,Cleveland,0,1
+2306205,12-May-22,Nebraska,Lincoln,0,1
+2301367,11-May-22,Ohio,Wellsville,0,1
+2299368,11-May-22,Indiana,Indianapolis,0,1
+2300861,11-May-22,California,Palo Alto,0,2
+2298551,10-May-22,New York,Bronx,0,1
+2299612,10-May-22,Illinois,Chicago,0,1
+2301126,10-May-22,Ohio,Wellsville,0,1
+2299352,10-May-22,New Mexico,Albuquerque,0,1
+2298283,10-May-22,Ohio,Toledo,0,1
+2298704,10-May-22,North Carolina,Rocky Mount,0,1
+2298675,9-May-22,Iowa,Waterloo,0,2
+2298173,9-May-22,Montana,Kalispell,0,1
+2298953,9-May-22,Arkansas,Little Rock,0,1
+2297301,8-May-22,Virginia,Henrico,0,1
+2300249,8-May-22,Vermont,Hartford,0,1
+2296526,7-May-22,North Carolina,Asheboro,0,1
+2297081,7-May-22,Oklahoma,Oklahoma City,0,1
+2297554,7-May-22,West Virginia,Elkins,0,1
+2296742,7-May-22,Louisiana,Shreveport,0,1
+2296343,7-May-22,Illinois,Chicago,2,1
+2295056,5-May-22,Illinois,Chicago,0,1
+2294863,5-May-22,Utah,Ogden,0,1
+2294849,5-May-22,California,Fresno,0,1
+2294293,4-May-22,Missouri,Saint Louis,0,1
+2294571,4-May-22,Washington,Seattle,0,1
+2293961,3-May-22,Michigan,Taylor,0,1
+2294903,3-May-22,Utah,Park City,0,1
+2315962,3-May-22,Arizona,Lakeside,0,1
+2295340,2-May-22,Idaho,Coeur D Alene (Coeur D'alene),0,2
+2294398,2-May-22,California,Oxnard,0,1
+2292324,1-May-22,Illinois,Chicago,0,2
+2292123,1-May-22,Virginia,Petersburg,0,1
+2292330,1-May-22,Ohio,Cleveland,0,1
+2292290,1-May-22,Texas,Dallas,1,1
+2301429,30-Apr-22,Mississippi,Kiln,0,1
+2297130,30-Apr-22,West Virginia,Elkins,0,1
+2293233,30-Apr-22,Wyoming,Sinclair,0,1
+2292120,30-Apr-22,Virginia,Fredericksburg,1,1
+2292005,30-Apr-22,Pennsylvania,Philadelphia,0,1
+2289046,27-Apr-22,Georgia,Decatur,0,2
+2289683,27-Apr-22,Ohio,Middletown,0,1
+2289709,26-Apr-22,Ohio,Piqua,0,3
+2287508,24-Apr-22,Michigan,Jackson,0,1
+2286490,24-Apr-22,Kentucky,Louisville,0,1
+2287291,24-Apr-22,Wisconsin,Milwaukee,0,1
+2287386,24-Apr-22,Michigan,Taylor,0,1
+2287032,24-Apr-22,Pennsylvania,Lewistown,0,1
+2286883,24-Apr-22,New York,New York (Manhattan),0,1
+2290880,24-Apr-22,Florida,Inverness,0,1
+2286625,23-Apr-22,Virginia,Duffield,0,3
+2288964,23-Apr-22,Kentucky,Versailles,0,1
+2285564,23-Apr-22,Ohio,Columbus,0,1
+2285981,23-Apr-22,Oregon,Medford,0,2
+2285594,22-Apr-22,New York,Coram,0,2
+2284846,22-Apr-22,Illinois,Chicago,0,1
+2285342,22-Apr-22,Alabama,Tuscaloosa,0,1
+2283955,21-Apr-22,Michigan,Detroit,0,1
+2284119,21-Apr-22,Massachusetts,Chelsea,0,1
+2284028,21-Apr-22,Louisiana,Baton Rouge,0,1
+2284062,20-Apr-22,Missouri,Saint Louis,0,1
+2300149,20-Apr-22,North Carolina,Lenoir,0,1
+2283291,19-Apr-22,California,Oakland,0,1
+2282719,19-Apr-22,Oklahoma,Oklahoma City,0,1
+2282916,18-Apr-22,Texas,Fort Worth,0,1
+2281632,18-Apr-22,Ohio,Dayton,0,1
+2282097,17-Apr-22,New York,New York (Manhattan),0,2
+2280816,17-Apr-22,Illinois,Chicago,0,1
+2280907,16-Apr-22,Indiana,Indianapolis,1,0
+2281794,15-Apr-22,Georgia,Roswell,0,1
+2280091,15-Apr-22,Pennsylvania,Philadelphia,0,2
+2278911,14-Apr-22,Minnesota,Minneapolis,0,1
+2278163,13-Apr-22,Tennessee,Springville,0,2
+2276765,12-Apr-22,Georgia,Atlanta,0,1
+2276754,12-Apr-22,Illinois,Champaign,0,1
+2277789,12-Apr-22,Virginia,Suffolk,0,1
+2277695,12-Apr-22,North Carolina,Asheville,0,1
+2276729,11-Apr-22,Tennessee,Memphis,0,1
+2276731,11-Apr-22,Georgia,Talbotton,0,1
+2276327,11-Apr-22,West Virginia,Wheeling,0,1
+2278005,10-Apr-22,Indiana,Indianapolis,0,1
+2275929,10-Apr-22,Illinois,Waukegan,0,2
+2275453,10-Apr-22,Minnesota,Minneapolis (Blaine),0,1
+2274845,9-Apr-22,Illinois,Chicago,0,1
+2274562,9-Apr-22,Maine,Randolph,0,1
+2273947,8-Apr-22,New York,Syracuse,0,1
+2273881,8-Apr-22,Georgia,Lithonia,0,1
+2274228,8-Apr-22,Florida,Jacksonville,0,1
+2274226,8-Apr-22,Illinois,Chicago,0,1
+2274174,8-Apr-22,Arkansas,Clay (county),0,1
+2273897,8-Apr-22,Tennessee,Memphis,0,1
+2273447,7-Apr-22,Illinois,Chicago,0,1
+2273604,7-Apr-22,Arizona,Bullhead City,0,1
+2272947,6-Apr-22,California,Fresno,0,1
+2272874,6-Apr-22,Massachusetts,Somerville,0,1
+2272465,6-Apr-22,Virginia,Richmond,0,1
+2273174,5-Apr-22,New York,Binghamton,0,1
+2271272,5-Apr-22,Illinois,Chicago,0,1
+2283114,5-Apr-22,Georgia,Madison,0,1
+2271774,5-Apr-22,Kansas,Junction City,0,1
+2270463,4-Apr-22,Illinois,Belleville (Swansea),0,1
+2270510,4-Apr-22,Texas,Lubbock,0,1
+2270703,4-Apr-22,Illinois,Chicago,0,1
+2269923,4-Apr-22,Minnesota,Minneapolis,0,1
+2283951,4-Apr-22,Georgia,Springfield,0,1
+2269661,3-Apr-22,Illinois,Chicago,0,1
+2270592,3-Apr-22,Tennessee,Knoxville,0,1
+2269990,3-Apr-22,Ohio,Canal Winchester,0,1
+2270807,3-Apr-22,Louisiana,Monroe (Richwood),0,1
+2268578,1-Apr-22,Louisiana,Shreveport,1,1
+2268792,1-Apr-22,Louisiana,Shreveport,0,1
+2273911,1-Apr-22,Georgia,Austell,0,1
+2269121,1-Apr-22,Illinois,Waukegan,0,2
+2268401,31-Mar-22,Michigan,Grand Rapids (Kentwood),0,1
+2268726,31-Mar-22,Texas,Greenville,0,1
+2270298,31-Mar-22,Maryland,Baltimore,0,1
+2269039,31-Mar-22,Mississippi,Vicksburg,0,1
+2266642,30-Mar-22,Virginia,Henrico (Highland Springs),0,1
+2266326,30-Mar-22,Texas,San Antonio,0,1
+2266267,30-Mar-22,Illinois,Chicago,0,1
+2266149,30-Mar-22,Maryland,Laurel,0,1
+2266028,29-Mar-22,Mississippi,Yazoo City,0,1
+2265402,28-Mar-22,North Carolina,Winston Salem (Winston-salem),0,1
+2264265,27-Mar-22,North Carolina,Winston Salem (Winston-salem),0,1
+2265050,26-Mar-22,Ohio,Toledo,0,1
+2263587,26-Mar-22,Wisconsin,Milwaukee,0,1
+2263983,26-Mar-22,Florida,Vero Beach,0,2
+2263482,26-Mar-22,Ohio,Columbus,0,1
+2264078,26-Mar-22,Oregon,Eugene,0,1
+2265042,25-Mar-22,Ohio,Toledo,0,1
+2263620,25-Mar-22,Texas,Houston,0,1
+2263282,25-Mar-22,Texas,Texarkana,0,1
+2263172,25-Mar-22,Virginia,Richmond,0,1
+2261846,24-Mar-22,Kentucky,Louisville,0,1
+2267073,23-Mar-22,Arizona,Kingman,0,1
+2261435,23-Mar-22,Virginia,Yorktown,0,1
+2261321,23-Mar-22,New York,Staten Island,0,1
+2261841,23-Mar-22,Michigan,Flint,0,1
+2261509,22-Mar-22,North Carolina,Charlotte,0,1
+2260019,21-Mar-22,Pennsylvania,Erie,0,1
+2260072,21-Mar-22,Connecticut,Bridgeport,0,1
+2259373,20-Mar-22,Georgia,Warner Robins,0,1
+2261105,20-Mar-22,Florida,Jacksonville,0,1
+2258867,20-Mar-22,Maryland,Cambridge,0,1
+2258944,20-Mar-22,Illinois,Chicago,0,1
+2258942,20-Mar-22,Illinois,Chicago,0,1
+2258940,20-Mar-22,Illinois,Chicago,0,1
+2260170,20-Mar-22,South Carolina,Spartanburg,0,2
+2262999,19-Mar-22,Ohio,Cleveland (Garfield Heights),0,1
+2258935,19-Mar-22,Iowa,Mediapolis,0,2
+2258356,19-Mar-22,Alabama,Huntsville,0,1
+2257025,17-Mar-22,Tennessee,Nashville,0,1
+2260258,17-Mar-22,Kansas,Ottawa,0,1
+2255322,16-Mar-22,Illinois,Chicago,0,1
+2254265,15-Mar-22,Pennsylvania,Philadelphia,0,1
+2253363,14-Mar-22,Minnesota,Minneapolis,0,1
+2253527,13-Mar-22,Virginia,Richmond,0,1
+2253712,13-Mar-22,Virginia,Culpeper,0,1
+2252973,13-Mar-22,Louisiana,Baton Rouge (Central),0,1
+2253981,13-Mar-22,Mississippi,Clarksdale,0,1
+2253002,13-Mar-22,Louisiana,Baton Rouge,0,1
+2252237,12-Mar-22,Mississippi,Jackson,0,1
+2255026,12-Mar-22,Wisconsin,Eau Claire,0,1
+2252361,11-Mar-22,New Hampshire,Nashua,0,2
+2251718,11-Mar-22,Texas,Dallas,0,1
+2253990,11-Mar-22,Indiana,Elkhart (county),0,1
+2252045,11-Mar-22,Washington,Spokane,0,1
+2251818,11-Mar-22,Tennessee,Memphis,0,1
+2251001,10-Mar-22,Michigan,Warren,0,1
+2251600,10-Mar-22,Alabama,Mobile (Prichard),0,1
+2250512,9-Mar-22,Texas,San Antonio,0,1
+2251112,9-Mar-22,West Virginia,Point Pleasant,0,1
+2252327,8-Mar-22,South Carolina,Walterboro,0,1
+2249578,8-Mar-22,Tennessee,Antioch,0,1
+2248920,7-Mar-22,California,Stockton,1,1
+2247796,6-Mar-22,Maryland,Waldorf (Saint Charles),0,1
+2249038,6-Mar-22,Alabama,Mobile,0,1
+2247352,5-Mar-22,Texas,Waco,1,1
+2247190,5-Mar-22,Tennessee,Nashville,0,1
+2246563,4-Mar-22,Ohio,Elyria,0,2
+2249288,4-Mar-22,Ohio,Toledo,0,1
+2247115,3-Mar-22,Pennsylvania,Kane,0,1
+2246636,3-Mar-22,Oklahoma,Oklahoma City,0,1
+2246342,3-Mar-22,North Carolina,Asheville,0,1
+2246283,3-Mar-22,Mississippi,Natchez,0,1
+2246083,2-Mar-22,Texas,Denton,0,1
+2245734,2-Mar-22,Indiana,Cedar Lake,0,1
+2245236,1-Mar-22,Illinois,Chicago,1,0
+2243842,28-Feb-22,West Virginia,Saint Albans,0,1
+2245650,28-Feb-22,Arkansas,Little Rock,0,1
+2243931,28-Feb-22,Indiana,South Bend,0,1
+2243141,27-Feb-22,Florida,Fort Lauderdale (Davie),0,1
+2243334,27-Feb-22,Missouri,Saint Louis,0,1
+2242369,26-Feb-22,North Carolina,Hickory,0,1
+2243110,26-Feb-22,South Carolina,Myrtle Beach,0,1
+2242375,26-Feb-22,North Carolina,Charlotte,0,1
+2243048,26-Feb-22,Maryland,Baltimore,0,1
+2241763,25-Feb-22,Texas,Wichita Falls,0,1
+2242066,25-Feb-22,Alabama,Huntsville,0,1
+2241946,24-Feb-22,Massachusetts,Falmouth,0,1
+2244706,24-Feb-22,Alabama,Montgomery,0,1
+2241368,24-Feb-22,California,Olivehurst,0,1
+2241192,23-Feb-22,Arizona,Sonoita,0,3
+2242007,23-Feb-22,Tennessee,Nashville,0,1
+2240825,22-Feb-22,Virginia,Virginia Beach,0,1
+2242011,22-Feb-22,California,San Clemente,0,1
+2240417,21-Feb-22,California,San Clemente,0,1
+2238669,20-Feb-22,Texas,San Antonio,0,1
+2238348,20-Feb-22,Alabama,Mobile,0,2
+2237332,19-Feb-22,North Carolina,Rocky Mount,0,2
+2238905,19-Feb-22,Texas,El Paso,0,1
+2256889,19-Feb-22,Georgia,Forsyth,0,1
+2238053,19-Feb-22,Ohio,Columbus,0,1
+2237923,19-Feb-22,Michigan,Detroit,0,1
+2239650,19-Feb-22,Georgia,Cumming,0,1
+2237451,19-Feb-22,Alabama,Tuscaloosa,0,4
+2236971,18-Feb-22,Colorado,Grand Junction,0,1
+2237111,18-Feb-22,Pennsylvania,Philadelphia,0,1
+2238791,18-Feb-22,Illinois,Chicago,0,1
+2250318,18-Feb-22,Missouri,Saint Clair,0,1
+2237081,17-Feb-22,Oregon,Portland,0,1
+2236546,17-Feb-22,South Carolina,Florence,0,1
+2236220,16-Feb-22,Georgia,Atlanta,0,1
+2235374,15-Feb-22,Alabama,Montgomery,0,1
+2235563,15-Feb-22,Louisiana,New Orleans,0,1
+2234848,15-Feb-22,Texas,Amarillo,1,1
+2235084,15-Feb-22,Florida,Fort Lauderdale,0,1
+2235841,15-Feb-22,Illinois,Champaign,0,1
+2235727,15-Feb-22,Idaho,Parma,0,1
+2233891,14-Feb-22,Missouri,Springfield,0,1
+2234510,14-Feb-22,Texas,Fort Worth,0,1
+2233880,13-Feb-22,South Carolina,Beaufort,0,1
+2232723,13-Feb-22,Idaho,Boise,0,1
+2235670,13-Feb-22,Colorado,Greeley,0,1
+2235637,13-Feb-22,North Carolina,Taylorsville,0,2
+2234539,11-Feb-22,Washington,Yakima,0,1
+2232417,11-Feb-22,Wisconsin,Sturtevant (Mount Pleasant),0,1
+2231193,10-Feb-22,South Carolina,Anderson,0,1
+2232332,10-Feb-22,Texas,Houston,0,1
+2233680,9-Feb-22,Tennessee,Sevierville,0,1
+2230174,9-Feb-22,Pennsylvania,Lancaster,0,1
+2231743,9-Feb-22,Ohio,Loveland,0,2
+2230072,9-Feb-22,North Carolina,Asheville,0,1
+2229887,9-Feb-22,Michigan,Detroit,0,1
+2230709,9-Feb-22,Oklahoma,Fairland,0,1
+2230649,9-Feb-22,Texas,San Antonio,0,2
+2232696,8-Feb-22,Colorado,Longmont,0,1
+2236760,7-Feb-22,Texas,Sweetwater,0,1
+2228452,7-Feb-22,Florida,Homestead,0,1
+2229136,7-Feb-22,Michigan,Detroit,0,1
+2228183,6-Feb-22,Alabama,Madison,0,1
+2228469,6-Feb-22,New Jersey,Bridgeton,0,1
+2227729,6-Feb-22,Florida,Jacksonville,0,1
+2228455,6-Feb-22,Maryland,Baltimore,0,1
+2227683,6-Feb-22,Illinois,Chicago,0,1
+2228076,6-Feb-22,Missouri,Saint Louis (Spanish Lake),0,2
+2227535,5-Feb-22,Tennessee,Lebanon,0,1
+2227123,5-Feb-22,Alabama,Huntsville,1,2
+2226801,4-Feb-22,Texas,Houston,0,1
+2228567,4-Feb-22,Indiana,Greenwood,0,1
+2226495,4-Feb-22,Maryland,Silver Spring,0,1
+2226970,4-Feb-22,Ohio,Youngstown,0,1
+2226907,4-Feb-22,Mississippi,Clinton,1,0
+2227030,3-Feb-22,Georgia,Decatur,0,1
+2226196,2-Feb-22,California,Santa Rosa,0,1
+2225376,1-Feb-22,South Carolina,Cordova,0,1
+2226276,1-Feb-22,Louisiana,Shreveport,0,1
+2223997,31-Jan-22,West Virginia,Rosemont,0,1
+2224598,31-Jan-22,South Carolina,Orangeburg,0,1
+2224558,31-Jan-22,Texas,Fort Worth,0,1
+2223206,30-Jan-22,Georgia,Snellville,0,1
+2225885,30-Jan-22,Idaho,Harrison,0,1
+2223402,30-Jan-22,Kentucky,Lexington,0,1
+2223410,29-Jan-22,Virginia,Marion,0,1
+2222723,29-Jan-22,Minnesota,Minneapolis,0,1
+2223340,29-Jan-22,New York,Albany,0,1
+2222453,28-Jan-22,Ohio,Toledo,0,1
+2221907,28-Jan-22,Florida,Miami,0,1
+2222327,27-Jan-22,Alabama,Montgomery,0,1
+2221288,27-Jan-22,Illinois,Chicago,0,1
+2222818,27-Jan-22,Utah,Brigham City,0,1
+2222816,27-Jan-22,Utah,Salt Lake City (Murray),0,1
+2220254,26-Jan-22,Texas,Houston,0,1
+2251056,25-Jan-22,Texas,Lewisville,0,1
+2220535,25-Jan-22,Ohio,Columbus,0,1
+2220215,25-Jan-22,California,Los Angeles,0,1
+2219916,24-Jan-22,Illinois,Woodstock,0,1
+2219376,24-Jan-22,Indiana,Indianapolis,0,1
+2219282,24-Jan-22,Kansas,Reading,0,1
+2219205,23-Jan-22,South Carolina,Vance,0,1
+2218290,23-Jan-22,Massachusetts,Mansfield,0,1
+2217318,22-Jan-22,Indiana,Indianapolis,0,1
+2219378,22-Jan-22,Louisiana,Baton Rouge,0,1
+2218942,21-Jan-22,Ohio,Akron,0,1
+2217520,21-Jan-22,South Carolina,Columbia,0,1
+2221493,20-Jan-22,Missouri,Saint Louis (Berkeley),1,1
+2216891,20-Jan-22,Delaware,Wilmington,0,1
+2216560,20-Jan-22,Florida,Pensacola,0,1
+2217248,20-Jan-22,Virginia,Norfolk,0,1
+2215449,19-Jan-22,Illinois,Chicago,0,2
+2216018,19-Jan-22,Pennsylvania,Erie,0,1
+2216063,19-Jan-22,Georgia,Atlanta,0,1
+2216156,19-Jan-22,Iowa,Storm Lake,0,1
+2215173,19-Jan-22,New York,Bronx,0,1
+2214562,18-Jan-22,New York,Bronx,0,2
+2215749,18-Jan-22,California,Sacramento,0,1
+2214465,17-Jan-22,North Carolina,Spring Lake,0,1
+2214395,17-Jan-22,New York,Utica,0,1
+2214109,17-Jan-22,Georgia,Warner Robins,0,1
+2214048,17-Jan-22,Florida,Ocala,0,1
+2211998,15-Jan-22,Texas,Houston,1,1
+2211482,14-Jan-22,Michigan,Detroit,0,1
+2211727,14-Jan-22,Alabama,Birmingham,0,1
+2216330,13-Jan-22,Kansas,Junction City,0,1
+2210792,13-Jan-22,Georgia,Atlanta,0,1
+2217200,13-Jan-22,Oklahoma,Tulsa,0,1
+2209896,12-Jan-22,Kentucky,Louisville,0,1
+2210554,12-Jan-22,Ohio,Toledo,0,1
+2210406,12-Jan-22,Ohio,Toledo,0,1
+2209768,11-Jan-22,Illinois,Blue Island,0,3
+2208321,10-Jan-22,Texas,Lubbock,0,1
+2209037,10-Jan-22,Virginia,Sterling,0,2
+2208081,10-Jan-22,Indiana,Middlebury,0,2
+2231948,10-Jan-22,Connecticut,Meriden,0,1
+2208822,9-Jan-22,Florida,Indiantown,0,1
+2224425,8-Jan-22,Washington,Bellingham,0,1
+2209680,8-Jan-22,Washington,Spanaway,0,1
+2207375,8-Jan-22,Florida,Tallahassee,0,1
+2206546,7-Jan-22,Michigan,Detroit,0,1
+2207077,7-Jan-22,Georgia,Warrenton,0,1
+2206207,7-Jan-22,Florida,Tallahassee,1,2
+2206789,7-Jan-22,South Carolina,Horry (county),0,1
+2206486,6-Jan-22,Wisconsin,Milwaukee,0,1
+2205854,6-Jan-22,Georgia,Atlanta (Dunwoody),0,1
+2205134,5-Jan-22,North Carolina,Spruce Pine,0,1
+2205768,5-Jan-22,Kansas,Wamego,0,1
+2204583,5-Jan-22,Texas,Granbury,0,2
+2204598,5-Jan-22,Texas,San Antonio,0,1
+2205188,5-Jan-22,Alabama,Ardmore,0,1
+2204219,4-Jan-22,New York,New York (Manhattan),0,1
+2225874,3-Jan-22,South Carolina,Aiken,0,1
+2203234,3-Jan-22,Arkansas,Bryant,0,1
+2203153,2-Jan-22,Michigan,Grand Rapids (Kentwood),0,1
+2208526,1-Jan-22,Virginia,Virginia Beach,0,1
+2205797,1-Jan-22,Virginia,Richmond,0,1
+2204129,1-Jan-22,Texas,Laredo,0,1
+2204097,1-Jan-22,South Carolina,Lamar,0,1
+2201826,1-Jan-22,Maryland,Baltimore,0,1
+2202534,1-Jan-22,Indiana,Gary,0,1
+2201762,1-Jan-22,New York,Bronx,0,1
+2202453,1-Jan-22,Louisiana,New Orleans,0,1
+2202438,1-Jan-22,Missouri,Saint Louis,0,1
+2201274,31-Dec-21,South Carolina,Mount Pleasant,0,1
+2201172,31-Dec-21,Minnesota,Minneapolis (Bloomington),0,2
+2203021,31-Dec-21,Arkansas,Little Rock,0,1
+2216125,31-Dec-21,Pennsylvania,Johnstown,0,1
+2201156,31-Dec-21,Nebraska,Omaha,0,1
+2201896,31-Dec-21,Maine,Bangor,0,1
+2203237,31-Dec-21,Texas,Nacogdoches,0,0
+2201842,31-Dec-21,North Carolina,Durham,0,1
+2202428,31-Dec-21,Missouri,Saint Louis,0,2
+2200159,30-Dec-21,Illinois,Chicago,0,1
+2199931,29-Dec-21,Utah,Paradise,0,1
+2199253,28-Dec-21,Illinois,East Saint Louis (Cahokia),0,2
+2199714,28-Dec-21,Indiana,Richmond,0,1
+2199532,28-Dec-21,Nevada,Reno,0,1
+2200965,28-Dec-21,Pennsylvania,Bear Lake,0,1
+2198576,27-Dec-21,Michigan,Detroit,0,1
+2198822,27-Dec-21,Texas,Houston,0,1
+2196488,24-Dec-21,Virginia,Norfolk,0,1
+2197356,24-Dec-21,Tennessee,Memphis,0,1
+2196740,24-Dec-21,Texas,Cypress,0,1
+2197835,24-Dec-21,Indiana,Merrillville,0,1
+2199417,24-Dec-21,Texas,Huntsville,0,1
+2196846,24-Dec-21,Pennsylvania,Philadelphia,0,1
+2195589,23-Dec-21,Georgia,Atlanta,0,1
+2198146,23-Dec-21,Ohio,Cleveland,0,2
+2195451,23-Dec-21,Hawaii,Honolulu,0,1
+2196620,23-Dec-21,Ohio,Akron,0,2
+2194885,22-Dec-21,Georgia,Fairburn,0,1
+2194637,22-Dec-21,Ohio,Columbus,0,1
+2197713,22-Dec-21,Indiana,Merrillville,1,0
+2194716,22-Dec-21,Texas,San Antonio,0,2
+2194357,21-Dec-21,Arkansas,Little Rock,0,1
+2194809,21-Dec-21,Ohio,Dayton,0,1
+2194111,21-Dec-21,New York,Calverton,0,1
+2193534,20-Dec-21,South Carolina,North Charleston,0,1
+2193369,20-Dec-21,Oklahoma,Oklahoma City,0,1
+2193684,20-Dec-21,Virginia,Richmond,0,1
+2193778,20-Dec-21,Alabama,Opelika,0,1
+2193058,19-Dec-21,Pennsylvania,Harrisburg,0,1
+2193233,19-Dec-21,Texas,Lubbock,0,1
+2193372,19-Dec-21,Indiana,Muncie,0,2
+2193260,19-Dec-21,Tennessee,Knoxville (Farragut),0,1
+2193078,18-Dec-21,Arkansas,Harrison,0,2
+2192241,18-Dec-21,Illinois,Chicago,0,1
+2192029,17-Dec-21,Michigan,Detroit,0,1
+2193019,17-Dec-21,Illinois,Quincy,0,1
+2192192,17-Dec-21,Arkansas,Monticello,0,1
+2195193,17-Dec-21,Colorado,Greeley,0,1
+2190743,16-Dec-21,Texas,Beaumont,0,1
+2190893,16-Dec-21,Texas,Lubbock,0,1
+2190610,15-Dec-21,Michigan,Detroit,0,1
+2190821,15-Dec-21,California,Cathedral City,0,1
+2190722,15-Dec-21,Pennsylvania,Philadelphia,0,1
+2189877,14-Dec-21,Michigan,Jackson,0,1
+2189336,13-Dec-21,Michigan,Cedar Springs,0,1
+2189911,13-Dec-21,Louisiana,Clinton,0,1
+2188181,12-Dec-21,Michigan,Royal Oak,0,1
+2188570,12-Dec-21,Georgia,Gainesville,0,1
+2195446,12-Dec-21,New Hampshire,Lebanon,0,1
+2187947,12-Dec-21,Virginia,Richmond,0,1
+2188979,12-Dec-21,Nebraska,Columbus,0,2
+2187648,11-Dec-21,Illinois,Shorewood,0,1
+2189393,11-Dec-21,Minnesota,Saint Paul,0,1
+2190100,11-Dec-21,Florida,Fort Myers,0,1
+2187674,11-Dec-21,Indiana,Mishawaka,0,3
+2188215,11-Dec-21,Alabama,Mobile,0,1
+2187486,11-Dec-21,Pennsylvania,Philadelphia,0,1
+2186559,10-Dec-21,Georgia,Atlanta,0,1
+2186591,10-Dec-21,Virginia,Amherst,0,1
+2187344,10-Dec-21,Illinois,Champaign,0,1
+2187655,10-Dec-21,Illinois,Plainfield,0,1
+2186072,9-Dec-21,Alabama,Town Creek,0,1
+2186586,8-Dec-21,New Hampshire,Exeter (Kensington),0,1
+2185894,7-Dec-21,Kansas,Bonner Springs,0,1
+2183233,6-Dec-21,Illinois,Chicago,0,1
+2184225,6-Dec-21,Illinois,Chicago,0,1
+2184432,6-Dec-21,District of Columbia,Washington,0,2
+2182984,5-Dec-21,Illinois,Chicago,0,2
+2183314,5-Dec-21,Texas,Douglass,0,1
+2183158,5-Dec-21,Florida,Clearwater,0,1
+2183618,5-Dec-21,Wisconsin,Beloit,0,1
+2182707,4-Dec-21,Ohio,Columbus,0,1
+2182813,4-Dec-21,Wisconsin,Milwaukee,0,1
+2182656,4-Dec-21,Georgia,Savannah,0,1
+2183373,4-Dec-21,Pennsylvania,State College,0,1
+2184657,4-Dec-21,Ohio,Toledo,0,1
+2183757,3-Dec-21,New York,Erin,0,1
+2182306,3-Dec-21,New York,Erin,0,1
+2193530,3-Dec-21,South Carolina,Moncks Corner,0,1
+2181920,2-Dec-21,Louisiana,New Orleans,0,1
+2180913,2-Dec-21,Louisiana,Lafayette,0,1
+2180847,2-Dec-21,South Carolina,Orangeburg,0,1
+2182401,1-Dec-21,Pennsylvania,Edinboro,0,1
+2180073,1-Dec-21,Illinois,Joliet,0,2
+2180544,1-Dec-21,Arizona,Chandler,0,1
+2179669,1-Dec-21,California,Beverly Hills,1,1
+2181675,29-Nov-21,Ohio,Columbus (Whitehall),0,1
+2178883,29-Nov-21,New Hampshire,Manchester,0,1
+2177211,28-Nov-21,Alabama,Dothan,0,1
+2177676,28-Nov-21,New York,Rochester,0,1
+2176765,28-Nov-21,Illinois,Chicago,0,1
+2178301,28-Nov-21,Pennsylvania,Columbia,0,1
+2177391,28-Nov-21,New Hampshire,Lyndeborough,0,1
+2176471,26-Nov-21,California,Red Bluff,0,1
+2177710,26-Nov-21,Texas,Abilene,0,2
+2221833,26-Nov-21,Texas,Belton,0,1
+2179697,26-Nov-21,Wisconsin,Edgar (Rib Falls),0,1
+2175270,25-Nov-21,Kentucky,Bowling Green,0,1
+2177883,25-Nov-21,California,San Diego,0,1
+2174567,24-Nov-21,Tennessee,Memphis,0,1
+2174213,24-Nov-21,Florida,Fort Lauderdale (Lauderhill),0,1
+2174468,24-Nov-21,Pennsylvania,Clairton,0,3
+2177886,23-Nov-21,California,Stockton,0,1
+2175942,22-Nov-21,South Dakota,Rapid City,0,1
+2173225,22-Nov-21,Illinois,Chicago,0,1
+2179686,22-Nov-21,Wisconsin,Juneau (county),0,1
+2173141,21-Nov-21,New York,Bronx,0,1
+2173675,21-Nov-21,New York,Hamlin,0,1
+2174405,21-Nov-21,Indiana,Cambridge City (Mount Auburn),0,1
+2179684,21-Nov-21,Wisconsin,Waukesha (county),0,1
+2172201,21-Nov-21,Wisconsin,Nasewaupee,0,1
+2171859,20-Nov-21,North Carolina,Robbins,0,4
+2173197,20-Nov-21,New York,Edmeston,0,1
+2191121,20-Nov-21,Pennsylvania,New Kensington,0,1
+2172334,20-Nov-21,Ohio,Cincinnati,0,1
+2172982,20-Nov-21,Minnesota,Elgin,0,1
+2179706,20-Nov-21,Wisconsin,Brussels,0,1
+2171699,20-Nov-21,Illinois,Chicago,0,3
+2174836,20-Nov-21,New Jersey,Sicklerville,0,1
+2171936,20-Nov-21,Alabama,Mobile,0,1
+2235469,19-Nov-21,Virginia,Warsaw,0,1
+2170935,19-Nov-21,Illinois,Chicago,0,1
+2171285,19-Nov-21,Texas,Lubbock,0,1
+2170958,19-Nov-21,Wisconsin,Milwaukee,0,1
+2170530,18-Nov-21,New Jersey,Cedar Grove,0,1
+2170349,18-Nov-21,Florida,Margate,0,1
+2170119,18-Nov-21,Alabama,Birmingham (Tarrant),0,2
+2170035,18-Nov-21,New Hampshire,Weare,0,1
+2170073,17-Nov-21,Pennsylvania,Philadelphia,0,1
+2169080,17-Nov-21,Massachusetts,Harwich,0,1
+2168581,16-Nov-21,South Carolina,Easley,0,1
+2169312,16-Nov-21,Georgia,Perry,1,1
+2169346,16-Nov-21,Georgia,Augusta,0,1
+2185642,16-Nov-21,Pennsylvania,Woodland,0,1
+2168541,16-Nov-21,South Carolina,Newberry,0,1
+2169231,16-Nov-21,Texas,Del Rio,0,2
+2166826,14-Nov-21,Texas,Buna,0,2
+2194068,14-Nov-21,Ohio,Zanesville,0,1
+2168254,14-Nov-21,Maine,Skowhegan,0,1
+2167148,14-Nov-21,Florida,Jacksonville,0,1
+2167080,14-Nov-21,Indiana,Arcola,0,1
+2166485,14-Nov-21,Indiana,Fort Wayne,0,1
+2167076,14-Nov-21,Florida,Tampa,0,1
+2216410,14-Nov-21,Pennsylvania,Tyrone,0,1
+2169593,13-Nov-21,New York,Albany,0,2
+2166408,13-Nov-21,Minnesota,Fisher,0,1
+2167270,13-Nov-21,Georgia,Nashville,1,1
+2165593,12-Nov-21,North Carolina,Raleigh,0,1
+2166281,12-Nov-21,Missouri,Florissant,0,1
+2167439,12-Nov-21,Louisiana,Lake Charles,0,2
+2166406,12-Nov-21,Minnesota,Dassel (Kingston),0,1
+2165583,12-Nov-21,Kentucky,Louisville,0,1
+2165285,11-Nov-21,California,Oakland,0,1
+2164703,11-Nov-21,Illinois,Chicago,0,3
+2165367,11-Nov-21,Maryland,Beltsville,0,1
+2165272,11-Nov-21,Illinois,Skokie,0,1
+2164174,10-Nov-21,Virginia,Norfolk,0,1
+2167302,10-Nov-21,Texas,Houston,0,1
+2164402,10-Nov-21,Oklahoma,Tulsa,0,1
+2164006,10-Nov-21,Maryland,Upper Marlboro,0,1
+2164213,10-Nov-21,California,Oakland,0,1
+2165756,10-Nov-21,Indiana,Elkhart,0,1
+2164039,9-Nov-21,Illinois,Martinsville,0,1
+2175769,9-Nov-21,Georgia,Thomaston,0,1
+2162951,8-Nov-21,Missouri,Joplin,0,1
+2171254,7-Nov-21,Washington,Snoqualmie,0,1
+2161546,7-Nov-21,South Carolina,Greenville,1,1
+2161734,7-Nov-21,Oklahoma,Oklahoma City,0,1
+2161367,7-Nov-21,Illinois,Chicago,1,1
+2238705,7-Nov-21,Iowa,Iowa City,0,1
+2162784,7-Nov-21,Louisiana,Monroe,0,1
+2160974,6-Nov-21,Illinois,Chicago,0,1
+2161625,6-Nov-21,Illinois,Decatur,0,1
+2161899,6-Nov-21,Alabama,Huntsville,0,1
+2165658,6-Nov-21,Kansas,Lawrence,0,1
+2160315,5-Nov-21,Virginia,Virginia Beach,0,1
+2162390,5-Nov-21,South Carolina,Holly Hill,0,1
+2174728,5-Nov-21,Mississippi,Kosciusko,0,1
+2162476,5-Nov-21,Ohio,Columbus,0,1
+2162918,5-Nov-21,South Carolina,Round O,0,1
+2159293,4-Nov-21,New York,Bronx,0,1
+2157413,2-Nov-21,Indiana,New Albany,0,1
+2158317,2-Nov-21,Indiana,Indianapolis,0,1
+2157333,2-Nov-21,Connecticut,Waterbury,0,1
+2156489,1-Nov-21,North Carolina,Smithfield,0,1
+2157402,1-Nov-21,Indiana,Greenwood,0,1
+2156035,1-Nov-21,Texas,San Antonio,0,1
+2156835,1-Nov-21,Alabama,Opelika,0,1
+2154994,31-Oct-21,New York,Bronx,1,2
+2155878,31-Oct-21,Oklahoma,Bartlesville,0,1
+2156206,31-Oct-21,Ohio,Cleveland,0,1
+2156729,30-Oct-21,South Carolina,Elloree,0,1
+2155026,30-Oct-21,New York,Mount Sinai,0,1
+2154657,30-Oct-21,Indiana,Greenwood,0,1
+2154659,30-Oct-21,Alabama,Birmingham,0,1
+2154063,29-Oct-21,Kansas,Emporia,0,1
+2154049,29-Oct-21,Illinois,Chicago,0,1
+2154255,29-Oct-21,Vermont,Irasburg,0,1
+2153047,28-Oct-21,New York,New York (Manhattan),0,1
+2157447,28-Oct-21,New York,Gowanda,0,0
+2179733,28-Oct-21,Wisconsin,Dodge (county),0,1
+2152070,27-Oct-21,Illinois,Chicago,0,1
+2154243,27-Oct-21,Alabama,Mobile,0,1
+2151757,26-Oct-21,Ohio,Kenton,0,1
+2151330,26-Oct-21,Wisconsin,Milwaukee,0,1
+2151589,25-Oct-21,North Carolina,Raleigh,0,1
+2150980,25-Oct-21,Michigan,Irons,0,1
+2150048,24-Oct-21,Michigan,Ann Arbor,0,1
+2149548,24-Oct-21,Minnesota,Minneapolis,0,1
+2179741,24-Oct-21,Wisconsin,Florence (county),0,1
+2154118,24-Oct-21,Kentucky,Murray,0,1
+2149918,24-Oct-21,New York,Syracuse,0,1
+2149793,23-Oct-21,Texas,San Antonio,0,2
+2149787,23-Oct-21,New York,Buffalo,0,1
+2149678,23-Oct-21,New York,Brooklyn,0,1
+2151512,22-Oct-21,Illinois,Highland Park,0,1
+2147910,22-Oct-21,Pennsylvania,Philadelphia,0,1
+2147862,22-Oct-21,Tennessee,Memphis,1,2
+2150202,22-Oct-21,Minnesota,Glenville,0,1
+2148093,21-Oct-21,Maryland,Baltimore,0,1
+2148066,21-Oct-21,Georgia,Perry,1,1
+2147532,21-Oct-21,Alabama,Birmingham,0,1
+2147494,21-Oct-21,New Mexico,Santa Fe,1,1
+2149544,21-Oct-21,California,Desert Hot Springs,0,1
+2147398,21-Oct-21,Virginia,Portsmouth,0,1
+2162914,21-Oct-21,Washington,Vancouver,0,1
+2146582,20-Oct-21,Illinois,Lyons,0,2
+2147169,20-Oct-21,Kentucky,Irvington,1,1
+2145445,18-Oct-21,Georgia,Augusta,0,1
+2147672,18-Oct-21,California,Fremont,0,1
+2147186,17-Oct-21,Ohio,Elyria,0,1
+2143434,17-Oct-21,Minnesota,Minneapolis,0,1
+2144453,17-Oct-21,North Carolina,Hendersonville,0,1
+2143135,17-Oct-21,Illinois,Chicago,0,1
+2144625,16-Oct-21,Maine,Phippsburg,0,1
+2143204,16-Oct-21,Florida,Hialeah (Miami Lakes),0,1
+2142065,15-Oct-21,Kentucky,Louisville,0,1
+2142208,15-Oct-21,Maryland,Odenton,0,1
+2142206,15-Oct-21,Virginia,Henrico,0,1
+2143067,15-Oct-21,New York,Mooers,0,1
+2141906,14-Oct-21,Ohio,Dayton,0,1
+2141120,14-Oct-21,Texas,San Angelo,0,2
+2141279,13-Oct-21,Minnesota,Saint Paul,0,1
+2140019,13-Oct-21,Florida,Miami,0,2
+2141618,13-Oct-21,Washington,Seattle,0,1
+2141652,12-Oct-21,Florida,Ocala,0,1
+2139975,12-Oct-21,Florida,Gainesville,0,1
+2139498,12-Oct-21,Texas,Houston,0,1
+2138755,11-Oct-21,Tennessee,Nashville,0,1
+2139583,11-Oct-21,Indiana,Lafayette,0,1
+2138916,11-Oct-21,Wisconsin,Milwaukee,0,1
+2139898,11-Oct-21,Oklahoma,Lawton,0,1
+2180253,11-Oct-21,Michigan,Dickinson (county),0,1
+2138681,10-Oct-21,Pennsylvania,State College,0,1
+2137663,10-Oct-21,Wisconsin,Madison,0,1
+2138119,10-Oct-21,Utah,Pleasant Grove,0,2
+2138131,10-Oct-21,Maryland,Temple Hills,0,1
+2138102,10-Oct-21,California,Los Angeles,0,1
+2137904,10-Oct-21,Ohio,Toledo,0,1
+2138049,10-Oct-21,Mississippi,Ellisville,0,1
+2136574,9-Oct-21,Texas,San Antonio,0,1
+2139006,9-Oct-21,Idaho,Grangeville,0,1
+2136170,8-Oct-21,Ohio,Cleveland,0,1
+2135808,8-Oct-21,Indiana,Portage,0,1
+2136181,8-Oct-21,Maryland,Capitol Heights,0,1
+2136484,8-Oct-21,Illinois,Chicago,0,1
+2135092,7-Oct-21,Florida,Orlando,0,1
+2134657,7-Oct-21,Illinois,Chicago,0,4
+2135796,7-Oct-21,Texas,Winnie,0,1
+2135701,7-Oct-21,Illinois,Chicago,0,1
+2135692,7-Oct-21,Illinois,Chicago,0,1
+2133538,5-Oct-21,Illinois,Chicago,0,1
+2133418,5-Oct-21,Indiana,South Bend,0,1
+2133726,5-Oct-21,Texas,Houston,0,1
+2136432,5-Oct-21,Ohio,Warren,0,1
+2133552,4-Oct-21,North Carolina,Winston Salem (Winston-salem),0,1
+2132338,4-Oct-21,Georgia,Atlanta,1,1
+2132317,4-Oct-21,New York,New York (Manhattan),0,1
+2131951,3-Oct-21,California,Ramona,0,1
+2132249,3-Oct-21,Minnesota,Rochester,0,2
+2134968,2-Oct-21,Colorado,Aurora (Centennial),0,1
+2131103,2-Oct-21,Illinois,Chicago,0,1
+2133263,2-Oct-21,Virginia,Hopewell,0,1
+2131034,2-Oct-21,Illinois,Chicago,0,2
+2130459,2-Oct-21,Connecticut,Hartford,0,1
+2131655,2-Oct-21,New Jersey,Trenton,0,1
+2131503,2-Oct-21,Oklahoma,Oklahoma City,0,1
+2131607,2-Oct-21,Georgia,Athens,1,1
+2134493,2-Oct-21,Mississippi,Grenada,0,1
+2139645,2-Oct-21,Mississippi,Grenada,0,1
+2129993,1-Oct-21,New York,Brooklyn,0,1
+2130979,1-Oct-21,North Carolina,Smithfield,0,1
+2130135,1-Oct-21,North Carolina,Gold Hill,0,1
+2134596,1-Oct-21,Alabama,Atmore,0,1
+2130366,1-Oct-21,Nebraska,Omaha,0,1
+2129495,30-Sep-21,Mississippi,Newton,0,1
+2128327,29-Sep-21,Massachusetts,Milton,0,1
+2128757,28-Sep-21,Virginia,Dumfries,0,1
+2127374,28-Sep-21,Illinois,Chicago,1,3
+2126917,27-Sep-21,Illinois,Morrison (Union Grove),0,1
+2126868,27-Sep-21,Maine,Leeds,0,1
+2126985,26-Sep-21,Alabama,Eufaula,0,1
+2126170,26-Sep-21,Texas,Lubbock,0,1
+2126074,26-Sep-21,Illinois,Chicago,0,1
+2126994,26-Sep-21,South Carolina,Columbia,0,1
+2126126,26-Sep-21,Texas,El Paso,0,1
+2126561,26-Sep-21,Florida,Cantonment,0,1
+2127356,26-Sep-21,Georgia,Atlanta,0,1
+2126352,26-Sep-21,Missouri,Saint Louis,0,1
+2126138,25-Sep-21,Kentucky,Lexington,0,1
+2126102,25-Sep-21,Kentucky,Florence,0,1
+2128932,25-Sep-21,Illinois,Cass (county),0,1
+2126873,25-Sep-21,Wisconsin,La Crosse,0,1
+2125041,23-Sep-21,Oregon,Salem,0,1
+2122826,22-Sep-21,Louisiana,New Orleans,0,1
+2124169,22-Sep-21,Oregon,Klamath Falls,0,1
+2121804,21-Sep-21,New York,Brooklyn,0,1
+2122983,21-Sep-21,Pennsylvania,Philadelphia,1,1
+2122083,21-Sep-21,Ohio,Cincinnati,0,1
+2122141,21-Sep-21,Alabama,Mobile,0,1
+2121902,20-Sep-21,Illinois,Urbana,1,0
+2122092,20-Sep-21,Missouri,Saint Louis,1,1
+2122111,20-Sep-21,Louisiana,Shreveport,0,2
+2121376,19-Sep-21,Iowa,Ames,0,1
+2119865,18-Sep-21,Georgia,Atlanta (East Point),0,1
+2120410,18-Sep-21,Colorado,Winter Park,0,1
+2122287,18-Sep-21,Mississippi,Natchez,0,1
+2118879,17-Sep-21,Florida,Lake City,0,1
+2118844,17-Sep-21,Washington,Mill Creek,0,1
+2119162,17-Sep-21,Louisiana,Shreveport,0,1
+2117779,16-Sep-21,Missouri,Kansas City,0,1
+2117683,16-Sep-21,Massachusetts,Boston,0,1
+2116971,15-Sep-21,Ohio,Cleveland,0,1
+2117427,15-Sep-21,Connecticut,East Lyme,0,1
+2180247,15-Sep-21,Michigan,Oscoda (county),0,1
+2118030,15-Sep-21,Tennessee,Chattanooga,0,2
+2116825,14-Sep-21,South Carolina,Myrtle Beach,0,1
+2116090,14-Sep-21,Georgia,Marietta,0,2
+2116616,14-Sep-21,Texas,San Antonio,0,1
+2115377,13-Sep-21,California,Reedley,0,1
+2115908,13-Sep-21,Georgia,Marietta,0,2
+2180245,13-Sep-21,Michigan,Roscommon (county),0,1
+2114776,12-Sep-21,Washington,Monroe,0,1
+2113640,11-Sep-21,Louisiana,New Orleans,0,1
+2113581,11-Sep-21,Alabama,Calera,0,1
+2113948,11-Sep-21,Florida,Opa Locka,0,1
+2113745,11-Sep-21,North Dakota,Grand Forks,0,1
+2113318,10-Sep-21,Georgia,Atlanta,0,1
+2112778,10-Sep-21,New York,Brooklyn,1,1
+2111960,9-Sep-21,Michigan,Dearborn,0,1
+2112817,9-Sep-21,North Carolina,Garner,0,1
+2111530,9-Sep-21,Oklahoma,Oklahoma City,0,1
+2111892,8-Sep-21,Missouri,Saint Louis,0,1
+2111306,8-Sep-21,Missouri,Saint Louis,1,1
+2111806,8-Sep-21,Alabama,Jacksonville,0,1
+2111522,8-Sep-21,Florida,Jacksonville,0,1
+2110902,8-Sep-21,Kentucky,Louisville,0,1
+2110465,7-Sep-21,South Carolina,North Charleston,0,1
+2111269,7-Sep-21,Maryland,Baltimore,0,1
+2109854,7-Sep-21,Oregon,Portland,0,1
+2109760,6-Sep-21,Illinois,Chicago,0,1
+2109952,6-Sep-21,California,San Diego,0,1
+2110591,6-Sep-21,New York,Murray,0,1
+2112641,5-Sep-21,Georgia,Morrow,0,1
+2109057,5-Sep-21,Florida,Dunedin,0,1
+2110629,5-Sep-21,Illinois,Carbondale,0,1
+2110599,5-Sep-21,Illinois,East Saint Louis,1,0
+2113727,4-Sep-21,Virginia,Charlottesville,0,1
+2108650,4-Sep-21,Iowa,Des Moines,0,1
+2108914,4-Sep-21,Oklahoma,Oklahoma City (Del City),0,1
+2108083,4-Sep-21,Indiana,Fort Wayne,0,1
+2107768,3-Sep-21,Ohio,Newark,0,1
+2107357,3-Sep-21,Wisconsin,Milwaukee,0,1
+2107484,3-Sep-21,New Jersey,Newark,0,1
+2108124,3-Sep-21,Missouri,Chesterfield,0,1
+2108106,3-Sep-21,Alaska,Anchorage,0,1
+2106407,2-Sep-21,Illinois,Chicago,0,2
+2106801,2-Sep-21,Kentucky,Hopkinsville,0,1
+2106512,1-Sep-21,New York,Elmira,0,1
+2106847,1-Sep-21,Florida,Haines City,0,1
+2105881,1-Sep-21,Illinois,Chicago,0,1
+2106488,30-Aug-21,Alabama,Sheffield,0,1
+2103996,30-Aug-21,Indiana,Indianapolis,0,1
+2103719,30-Aug-21,Georgia,Decatur,0,1
+2104274,30-Aug-21,New York,New York (Manhattan),0,2
+2104142,29-Aug-21,Ohio,Youngstown,0,1
+2103887,29-Aug-21,Oklahoma,Lawton,0,1
+2103040,29-Aug-21,Illinois,Chicago,0,1
+2102017,28-Aug-21,Utah,Ogden (Harrisville),0,1
+2101995,28-Aug-21,Illinois,Chicago,0,1
+2104976,27-Aug-21,West Virginia,Charleston,0,1
+2102143,27-Aug-21,Indiana,Fort Wayne,0,1
+2102030,27-Aug-21,Alabama,Atmore,0,1
+2101910,27-Aug-21,Kentucky,Owensboro,0,1
+2101828,26-Aug-21,Colorado,Arvada,0,1
+2101000,26-Aug-21,Kentucky,Louisville,0,1
+2103642,26-Aug-21,Michigan,Detroit,0,1
+2101142,26-Aug-21,Georgia,Augusta,0,2
+2102186,26-Aug-21,Texas,Mcallen,0,1
+2100986,26-Aug-21,Missouri,Saint Louis,0,2
+2101188,26-Aug-21,Oklahoma,Springer,0,2
+2101178,26-Aug-21,Illinois,Chicago,0,2
+2100175,25-Aug-21,Alabama,Mobile,0,1
+2099736,25-Aug-21,Georgia,Atlanta,0,1
+2100326,25-Aug-21,Indiana,Indianapolis,0,1
+2099064,23-Aug-21,New York,New York (Manhattan),0,1
+2100729,23-Aug-21,New York,New York (Manhattan),0,1
+2098894,23-Aug-21,South Carolina,Columbia,0,1
+2098262,23-Aug-21,Florida,Jacksonville,0,1
+2098463,23-Aug-21,Wisconsin,Green Bay (Howard),0,1
+2097031,22-Aug-21,Indiana,Indianapolis,0,2
+2098720,22-Aug-21,Pennsylvania,Conneaut Lake,0,1
+2097153,22-Aug-21,Michigan,Kalamazoo,1,1
+2096501,21-Aug-21,Georgia,Atlanta,0,1
+2096027,20-Aug-21,Texas,Houston,0,1
+2095846,20-Aug-21,Illinois,Chicago,0,2
+2095986,19-Aug-21,Minnesota,Rochester,0,1
+2096196,19-Aug-21,Oklahoma,Oklahoma City,0,1
+2095631,19-Aug-21,Illinois,Chicago,0,1
+2094498,18-Aug-21,Missouri,Saint Louis,0,2
+2095515,18-Aug-21,Pennsylvania,Chester,0,1
+2094335,17-Aug-21,Georgia,Albany,0,1
+2093789,17-Aug-21,Missouri,Saint Louis (Berkeley),0,1
+2093532,17-Aug-21,Louisiana,Shreveport,0,1
+2092842,16-Aug-21,Louisiana,New Orleans,0,1
+2093456,16-Aug-21,Illinois,Chicago,0,1
+2093247,16-Aug-21,Texas,San Antonio,0,1
+2091796,15-Aug-21,Georgia,Atlanta,0,1
+2092824,14-Aug-21,Arkansas,North Little Rock,0,1
+2091357,14-Aug-21,Ohio,Cincinnati,0,1
+2091466,14-Aug-21,Pennsylvania,Columbia,0,1
+2091576,14-Aug-21,Indiana,Evansville,0,1
+2092182,14-Aug-21,California,Quincy,0,1
+2091097,14-Aug-21,Maryland,Baltimore,0,1
+2089794,13-Aug-21,Florida,Pensacola,0,1
+2090551,13-Aug-21,New Jersey,Newark,0,4
+2089848,12-Aug-21,Florida,Opa Locka,0,1
+2089805,12-Aug-21,Utah,Ogden (West Haven),0,1
+2089802,10-Aug-21,Wisconsin,Kenosha,0,1
+2087851,10-Aug-21,Ohio,Columbus,0,1
+2087783,10-Aug-21,North Carolina,Charlotte,0,2
+2087303,9-Aug-21,Connecticut,New Haven,0,1
+2086386,9-Aug-21,Texas,Lubbock,0,1
+2087675,8-Aug-21,Virginia,Woodbridge,0,1
+2085837,8-Aug-21,Texas,Lubbock,0,1
+2085791,8-Aug-21,Indiana,Indianapolis,0,2
+2086107,8-Aug-21,Florida,Dundee,0,2
+2087099,8-Aug-21,Louisiana,Boutte,0,1
+2085922,8-Aug-21,Tennessee,Memphis,0,2
+2086545,8-Aug-21,Tennessee,Memphis,0,1
+2085882,7-Aug-21,New York,Brooklyn,1,1
+2086644,7-Aug-21,Michigan,Pontiac,0,1
+2087242,7-Aug-21,Florida,Saint Petersburg,0,1
+2084606,6-Aug-21,Pennsylvania,Philadelphia,0,1
+2083190,5-Aug-21,New York,Corona (Queens),0,2
+2084420,5-Aug-21,New York,Brooklyn,0,1
+2083617,5-Aug-21,Georgia,Statesboro,0,1
+2083532,5-Aug-21,Illinois,Tuscola,0,1
+2082546,4-Aug-21,Georgia,Atlanta,0,1
+2083114,4-Aug-21,New Jersey,Paterson,0,1
+2083043,4-Aug-21,Mississippi,Jackson,0,1
+2083374,3-Aug-21,Indiana,Mount Vernon,0,1
+2082606,3-Aug-21,Texas,Houston,0,1
+2081947,3-Aug-21,Illinois,Chicago,0,1
+2081639,3-Aug-21,New York,Rochester,0,1
+2082992,3-Aug-21,Arkansas,Hot Springs National Park (Hot Springs),0,2
+2081317,2-Aug-21,Tennessee,Martin,0,1
+2081179,2-Aug-21,Indiana,Gary,0,2
+2081876,2-Aug-21,Texas,San Antonio,0,1
+2080597,2-Aug-21,Oklahoma,Oklahoma City,0,1
+2081458,2-Aug-21,Ohio,Dayton (Trotwood),0,1
+2081020,1-Aug-21,New York,Rochester,0,1
+2080586,1-Aug-21,Florida,Cocoa,0,1
+2083263,1-Aug-21,Texas,Uvalde,0,1
+2080555,1-Aug-21,Washington,Renton,0,1
+2080568,1-Aug-21,Illinois,Chicago,0,2
+2247434,1-Aug-21,Georgia,Winder,0,1
+2081833,31-Jul-21,Texas,Lufkin,0,1
+2081612,31-Jul-21,Idaho,Stites (Clearwater),0,1
+2080441,31-Jul-21,Louisiana,La Place (Laplace),0,2
+2078997,30-Jul-21,Florida,Pensacola,0,1
+2078978,30-Jul-21,Arizona,Phoenix,0,1
+2078973,30-Jul-21,Indiana,Evansville,0,1
+2079007,29-Jul-21,Texas,Azle,0,1
+2077570,29-Jul-21,Florida,Panama City (Southport),0,1
+2076887,28-Jul-21,West Virginia,Charleston,0,1
+2076766,28-Jul-21,Illinois,Chicago,0,1
+2076583,28-Jul-21,Illinois,Chicago,0,1
+2077510,28-Jul-21,Texas,San Antonio,0,1
+2078796,28-Jul-21,Ohio,Youngstown,0,1
+2076177,27-Jul-21,Illinois,Chicago,0,1
+2076128,27-Jul-21,Michigan,Saginaw,0,1
+2076848,27-Jul-21,Wisconsin,Burlington,0,1
+2163030,27-Jul-21,Connecticut,Ledyard,0,1
+2076019,27-Jul-21,Michigan,Detroit,0,1
+2076114,27-Jul-21,Connecticut,Gales Ferry,0,1
+2077250,27-Jul-21,Alabama,Troy,0,1
+2075464,26-Jul-21,New York,Perry,0,1
+2075474,26-Jul-21,New Jersey,Paterson,0,1
+2075523,26-Jul-21,Virginia,Richmond,0,1
+2073676,25-Jul-21,Arizona,Phoenix,2,2
+2080309,25-Jul-21,Ohio,Cleveland (Richmond Heights),0,1
+2073999,25-Jul-21,Illinois,Chicago,0,1
+2074868,25-Jul-21,Texas,San Antonio,0,1
+2074722,25-Jul-21,Georgia,Wrightsville,0,1
+2073831,25-Jul-21,Indiana,Indianapolis,0,1
+2076352,25-Jul-21,Missouri,Carthage,0,1
+2075390,24-Jul-21,North Carolina,Charlotte,0,1
+2077927,24-Jul-21,Florida,Tallahassee,0,1
+2074264,24-Jul-21,California,Antioch,0,3
+2073729,24-Jul-21,South Carolina,Camden,0,1
+2076782,24-Jul-21,New York,Watervliet,0,1
+2072998,24-Jul-21,Texas,Dallas,0,1
+2072850,24-Jul-21,Ohio,Cincinnati,0,1
+2073557,24-Jul-21,Oregon,Eugene,0,1
+2072338,23-Jul-21,Missouri,Saint Louis,0,1
+2072775,23-Jul-21,Georgia,Atlanta,0,1
+2083072,23-Jul-21,Pennsylvania,Youngwood,0,1
+2075619,23-Jul-21,Pennsylvania,Lebanon,0,1
+2072334,23-Jul-21,Tennessee,Cordova,0,1
+2071276,22-Jul-21,Minnesota,Saint Paul (North Saint Paul),0,1
+2071509,22-Jul-21,North Carolina,Lexington,0,1
+2071991,22-Jul-21,California,Fresno,0,1
+2071949,22-Jul-21,California,Oakland,0,1
+2071396,22-Jul-21,Kentucky,London,0,2
+2071704,22-Jul-21,Maryland,Saint Leonard,0,1
+2071788,22-Jul-21,Florida,Pensacola,0,1
+2070477,21-Jul-21,Utah,Roy,0,1
+2070839,21-Jul-21,Arkansas,Little Rock,0,1
+2070459,21-Jul-21,Louisiana,Shreveport,0,1
+2071531,21-Jul-21,North Carolina,Rocky Mount,0,1
+2071757,21-Jul-21,New Hampshire,Manchester,0,1
+2068728,20-Jul-21,New York,New York (Manhattan),0,1
+2070520,20-Jul-21,California,San Bernardino,0,1
+2069001,20-Jul-21,Kentucky,Louisville,0,2
+2069257,20-Jul-21,Arkansas,Hardy,0,1
+2068673,20-Jul-21,Massachusetts,Westport,0,1
+2068861,20-Jul-21,Texas,Wichita Falls,0,1
+2067510,19-Jul-21,North Carolina,Erwin,1,0
+2067525,18-Jul-21,California,Oakland,1,1
+2067278,18-Jul-21,Wisconsin,Beaver Dam,0,1
+2067417,18-Jul-21,Michigan,Jackson,0,3
+2066675,18-Jul-21,South Carolina,Hartsville,0,1
+2066878,18-Jul-21,Illinois,Chicago,0,1
+2067286,18-Jul-21,Georgia,Atlanta,0,2
+2066385,18-Jul-21,Texas,Houston,0,2
+2066473,18-Jul-21,California,Oakland,0,2
+2067559,18-Jul-21,New York,Corona (Queens),0,1
+2066542,18-Jul-21,Illinois,Chicago,0,1
+2066428,18-Jul-21,Minnesota,Minneapolis,0,1
+2068376,18-Jul-21,Kentucky,Lexington,0,2
+2065827,17-Jul-21,New York,New York (Manhattan),0,2
+2065849,17-Jul-21,Texas,Houston,0,2
+2065886,17-Jul-21,Virginia,Virginia Beach,0,1
+2068950,17-Jul-21,South Carolina,Denmark,0,1
+2065972,17-Jul-21,District of Columbia,Washington,0,3
+2064927,16-Jul-21,Ohio,Columbus,0,1
+2065526,16-Jul-21,Michigan,Saginaw,0,1
+2064579,16-Jul-21,Texas,Houston,0,1
+2065588,16-Jul-21,Michigan,Wyoming,0,1
+2065144,16-Jul-21,Missouri,Springfield,0,1
+2066737,15-Jul-21,Illinois,Saint Charles (St Charles),0,1
+2065043,15-Jul-21,Pennsylvania,Philadelphia,1,2
+2064643,15-Jul-21,Minnesota,Duluth,0,1
+2063907,15-Jul-21,Tennessee,Memphis,0,1
+2116794,14-Jul-21,Minnesota,Rochester,0,0
+2062365,14-Jul-21,Louisiana,La Place (Laplace),0,1
+2063203,14-Jul-21,Kansas,Wichita,0,2
+2063763,13-Jul-21,Ohio,Warren,0,1
+2061567,13-Jul-21,New York,New York (Manhattan),0,1
+2061884,13-Jul-21,Iowa,Cedar Falls,0,1
+2063847,13-Jul-21,California,Fresno,0,1
+2060351,12-Jul-21,Tennessee,Nashville,0,1
+2061194,12-Jul-21,Nevada,Henderson,0,1
+2061974,12-Jul-21,North Carolina,Wilmington,0,2
+2061961,12-Jul-21,North Carolina,Winston Salem (Winston-salem),0,1
+2059616,11-Jul-21,New York,Bronx,0,3
+2059612,11-Jul-21,New York,Brooklyn,0,3
+2059556,11-Jul-21,Michigan,Detroit,0,1
+2060009,11-Jul-21,Wisconsin,Milwaukee,0,1
+2060484,10-Jul-21,New York,Lowville (Watson),0,1
+2059312,10-Jul-21,Illinois,Chicago,1,2
+2058924,10-Jul-21,Texas,Wichita Falls,0,1
+2060240,10-Jul-21,Minnesota,Sauk Centre,0,3
+2059160,10-Jul-21,New York,Troy,0,1
+2061715,9-Jul-21,California,Merced,0,1
+2179747,9-Jul-21,Wisconsin,Washburn (county),0,1
+2058610,9-Jul-21,South Carolina,Spartanburg,0,1
+2058582,9-Jul-21,Wisconsin,Kenosha,0,1
+2060794,9-Jul-21,Ohio,Akron,0,1
+2058435,9-Jul-21,California,National City,0,1
+2058973,8-Jul-21,California,Pasadena,0,1
+2057032,8-Jul-21,Missouri,Saint Louis,1,2
+2062543,7-Jul-21,Indiana,Fredericksburg,0,1
+2056909,7-Jul-21,Georgia,Griffin,0,1
+2057452,7-Jul-21,Pennsylvania,Harrisburg,1,1
+2055268,6-Jul-21,Virginia,Suffolk,0,1
+2056983,6-Jul-21,California,Gilroy,0,1
+2054964,6-Jul-21,Georgia,Hinesville,0,1
+2055872,6-Jul-21,Michigan,Saginaw,0,1
+2055360,6-Jul-21,Tennessee,Memphis,0,1
+2054300,5-Jul-21,Texas,Waco,0,1
+2054115,5-Jul-21,Mississippi,Gulfport,0,1
+2054119,5-Jul-21,Mississippi,Gulfport,0,1
+2053322,5-Jul-21,Indiana,Indianapolis,0,1
+2055277,5-Jul-21,Ohio,Columbus,0,1
+2052906,4-Jul-21,Michigan,Lansing,0,1
+2054449,4-Jul-21,New York,Bronx,0,1
+2054440,4-Jul-21,North Carolina,Raleigh,0,1
+2056991,4-Jul-21,Tennessee,Memphis,0,1
+2054287,4-Jul-21,South Carolina,Charleston,0,1
+2052949,4-Jul-21,Tennessee,Church Hill,0,2
+2052815,4-Jul-21,Illinois,Chicago,0,1
+2053124,4-Jul-21,Louisiana,Shreveport,0,1
+2055185,4-Jul-21,Minnesota,Saint Louis Park,0,1
+2053682,4-Jul-21,Virginia,Suffolk,0,1
+2056978,4-Jul-21,Texas,Fort Worth,0,1
+2056706,4-Jul-21,Texas,Lubbock,0,1
+2054967,4-Jul-21,Texas,Houston,0,1
+2054849,4-Jul-21,Florida,Tampa,0,1
+2053451,4-Jul-21,California,Oakland,0,1
+2052806,4-Jul-21,Maryland,Annapolis,0,1
+2055488,4-Jul-21,Alabama,Mobile,0,2
+2053575,4-Jul-21,District of Columbia,Washington,0,1
+2052761,4-Jul-21,Maryland,Hyattsville,0,1
+2105775,3-Jul-21,New Mexico,Farmington,0,1
+2052236,3-Jul-21,Illinois,Dolton,0,1
+2057100,3-Jul-21,Missouri,Joplin,0,1
+2052128,3-Jul-21,Alabama,Birmingham (Ensley),0,1
+2051603,3-Jul-21,Texas,Houston,0,1
+2051857,3-Jul-21,Maryland,Annapolis,0,1
+2057888,3-Jul-21,Arizona,Prescott Valley,0,1
+2052336,3-Jul-21,Indiana,South Bend,0,1
+2052388,3-Jul-21,Florida,Jacksonville,0,1
+2051628,3-Jul-21,Oklahoma,Oklahoma City,0,1
+2064176,3-Jul-21,Ohio,Middletown,0,1
+2052296,3-Jul-21,South Carolina,Florence,0,1
+2057271,2-Jul-21,South Dakota,Watertown,0,1
+2057148,2-Jul-21,Louisiana,Gretna (Terrytown),0,1
+2051331,2-Jul-21,Oklahoma,Oklahoma City (Moore),0,1
+2050910,1-Jul-21,Texas,Houston,0,1
+2050144,1-Jul-21,Illinois,Chicago,0,2
+2050591,1-Jul-21,Florida,Middleburg,0,1
+2050926,1-Jul-21,California,Fresno,0,2
+2051173,30-Jun-21,Ohio,Youngstown,0,1
+2050057,30-Jun-21,Mississippi,Jackson,0,1
+2050073,30-Jun-21,Florida,Panama City Beach,0,1
+2049758,30-Jun-21,Arizona,Tucson,0,1
+2048760,29-Jun-21,New York,Rochester,0,1
+2047682,28-Jun-21,New York,New York (Manhattan),0,1
+2049336,27-Jun-21,Michigan,Traverse City,0,1
+2046486,27-Jun-21,Colorado,Denver,0,1
+2046467,27-Jun-21,New York,New York (Manhattan),0,1
+2046962,27-Jun-21,California,Fresno,0,1
+2046954,27-Jun-21,Indiana,Dillsboro,0,1
+2047733,27-Jun-21,New York,New York (Manhattan),0,1
+2046133,27-Jun-21,New York,Rochester,0,2
+2046947,27-Jun-21,Ohio,Columbus,0,1
+2047796,27-Jun-21,Louisiana,Shreveport,0,1
+2048383,27-Jun-21,Kentucky,Louisville,0,1
+2047186,26-Jun-21,Alabama,Moundville,0,3
+2045611,26-Jun-21,Georgia,Atlanta,1,2
+2050475,26-Jun-21,Missouri,Kansas City,0,1
+2046018,26-Jun-21,Texas,Fort Worth,0,1
+2045540,25-Jun-21,Massachusetts,Lynn,0,1
+2045489,25-Jun-21,Texas,San Antonio,0,2
+2045548,25-Jun-21,New Hampshire,Milton,0,1
+2044371,24-Jun-21,Pennsylvania,Philadelphia,0,1
+2044884,24-Jun-21,New York,Bronx,0,1
+2044711,24-Jun-21,Idaho,Pocatello (Chubbuck),0,1
+2044587,24-Jun-21,Texas,Starr (county),0,1
+2045328,23-Jun-21,North Carolina,Mount Airy,0,2
+2043144,23-Jun-21,New Mexico,Santa Fe,1,1
+2045609,23-Jun-21,Georgia,Decatur,0,1
+2043630,23-Jun-21,Alabama,Birmingham (Ensley),0,1
+2042740,22-Jun-21,Tennessee,Nashville,0,1
+2042725,22-Jun-21,Virginia,Richmond,0,1
+2042777,22-Jun-21,Florida,Saint Petersburg,0,1
+2042852,22-Jun-21,Mississippi,Vicksburg,0,1
+2042312,21-Jun-21,Kansas,Topeka,0,1
+2042148,21-Jun-21,Texas,Houston,0,1
+2041926,21-Jun-21,Georgia,Blakely,0,1
+2040145,20-Jun-21,Illinois,Chicago,0,2
+2041078,20-Jun-21,Wisconsin,Milwaukee,0,1
+2041021,20-Jun-21,Missouri,Saint Louis,0,2
+2039768,19-Jun-21,Wisconsin,Milwaukee,0,1
+2039606,19-Jun-21,New York,Brooklyn,0,1
+2039776,19-Jun-21,New York,New York (Manhattan),0,2
+2040002,19-Jun-21,Colorado,Aurora,0,2
+2039842,19-Jun-21,Pennsylvania,Pittsburgh,0,2
+2039562,18-Jun-21,New York,New York (Manhattan),0,1
+2039059,18-Jun-21,North Carolina,Raleigh,0,1
+2039415,18-Jun-21,California,Oakland,0,1
+2038499,18-Jun-21,California,Oakland,0,1
+2038402,18-Jun-21,Illinois,Danville,0,1
+2038926,17-Jun-21,Illinois,Minooka,0,1
+2037489,17-Jun-21,Minnesota,Minneapolis (Brooklyn Park),0,1
+2038376,17-Jun-21,Florida,Clearwater,0,1
+2043050,17-Jun-21,North Carolina,Kelford,0,1
+2037286,17-Jun-21,Illinois,Chicago,0,1
+2038933,17-Jun-21,Virginia,Woodbridge,0,1
+2069171,16-Jun-21,New York,Brooklyn,0,2
+2037523,16-Jun-21,Maryland,Dunkirk,0,1
+2037291,16-Jun-21,New York,New Rochelle,0,1
+2036257,16-Jun-21,Missouri,Saint Louis,0,2
+2037935,16-Jun-21,Ohio,Newbury,0,1
+2037265,16-Jun-21,South Carolina,Orangeburg,0,2
+2037091,16-Jun-21,Louisiana,New Orleans,0,1
+2038030,16-Jun-21,Louisiana,Crowley,0,1
+2035817,15-Jun-21,Iowa,Dubuque,0,1
+2035832,15-Jun-21,Kansas,Topeka,0,1
+2037438,15-Jun-21,Indiana,Hammond,0,1
+2036163,15-Jun-21,New Jersey,Atlantic City,0,1
+2035438,14-Jun-21,Texas,Houston,0,2
+2034224,14-Jun-21,Connecticut,Hartford,0,2
+2035158,14-Jun-21,Louisiana,Shreveport,0,2
+2037011,14-Jun-21,Ohio,Cleveland,0,1
+2032940,12-Jun-21,Connecticut,Fairfield,0,1
+2032300,12-Jun-21,Texas,Houston,0,1
+2032434,12-Jun-21,New York,Bronx,1,1
+2032411,12-Jun-21,Illinois,Champaign,1,1
+2033676,12-Jun-21,Massachusetts,Woburn,0,1
+2033295,12-Jun-21,Ohio,Columbus,0,2
+2032624,11-Jun-21,Georgia,Atlanta,0,1
+2031550,11-Jun-21,Indiana,Evansville,0,1
+2032470,11-Jun-21,California,Oakland,0,2
+2032574,11-Jun-21,Indiana,Fort Wayne,0,1
+2030901,10-Jun-21,Missouri,Liberty,0,1
+2030956,10-Jun-21,Tennessee,Memphis,0,2
+2030670,10-Jun-21,Kentucky,Lexington,0,1
+2031455,10-Jun-21,Georgia,Jefferson,0,1
+2032197,10-Jun-21,Oregon,Portland,0,1
+2030810,10-Jun-21,Pennsylvania,Philadelphia,0,2
+2030991,9-Jun-21,Texas,Lufkin,0,1
+2030884,9-Jun-21,Georgia,Americus,0,1
+2030718,9-Jun-21,Michigan,Westland,0,1
+2030118,9-Jun-21,Tennessee,Memphis,0,1
+2030615,9-Jun-21,Connecticut,Waterbury,0,1
+2029859,8-Jun-21,North Carolina,Greensboro,0,1
+2030554,8-Jun-21,California,Kingsburg,0,1
+2030526,8-Jun-21,Indiana,Jasper,0,1
+2028527,8-Jun-21,Florida,Tampa,0,1
+2029224,8-Jun-21,Pennsylvania,Harrisburg,0,1
+2029058,7-Jun-21,Ohio,Akron,0,1
+2029106,7-Jun-21,Texas,Dallas,0,1
+2027916,7-Jun-21,Illinois,Chicago,0,1
+2028150,7-Jun-21,Pennsylvania,Philadelphia,1,1
+2031191,7-Jun-21,New Jersey,Egg Harbor Township,0,1
+2028047,7-Jun-21,Kansas,Wichita,0,1
+2027829,7-Jun-21,New York,Brooklyn,1,1
+2027653,6-Jun-21,Oregon,Madras,0,2
+2026953,6-Jun-21,Michigan,Detroit,0,1
+2029694,6-Jun-21,Vermont,Pownal,0,1
+2027259,6-Jun-21,Arizona,Phoenix,0,1
+2027074,6-Jun-21,Michigan,Detroit,0,1
+2028260,6-Jun-21,Ohio,Newcomerstown,0,1
+2026084,5-Jun-21,Vermont,Burlington,0,1
+2026379,5-Jun-21,Wisconsin,Sheboygan,0,1
+2027512,5-Jun-21,North Carolina,Fayetteville,0,1
+2025896,5-Jun-21,New York,Bronx,0,1
+2025569,5-Jun-21,Missouri,Belton,0,1
+2026587,5-Jun-21,North Carolina,Charlotte,0,1
+2025444,5-Jun-21,Texas,Richmond,0,1
+2026175,5-Jun-21,Texas,Houston,0,2
+2027071,5-Jun-21,Ohio,South Salem,0,1
+2025338,5-Jun-21,Illinois,Chicago,0,1
+2026938,5-Jun-21,Idaho,Rathdrum,0,1
+2025950,4-Jun-21,Michigan,Kalamazoo,0,1
+2025730,4-Jun-21,New York,Bronx,0,1
+2026010,4-Jun-21,New Jersey,New Brunswick,0,1
+2024844,4-Jun-21,Connecticut,Waterford,0,1
+2029414,4-Jun-21,New Mexico,Albuquerque,0,1
+2024190,3-Jun-21,California,Merced,0,1
+2024806,3-Jun-21,Tennessee,Memphis,0,1
+2026623,3-Jun-21,Alaska,Wasilla,0,1
+2025302,3-Jun-21,Texas,Denton,0,1
+2024390,3-Jun-21,South Carolina,Myrtle Beach,0,1
+2024318,3-Jun-21,Pennsylvania,Pittsburgh (Allegheny),0,1
+2023846,3-Jun-21,Virginia,Hampton,0,1
+2023222,2-Jun-21,Alabama,Helena,0,1
+2023013,2-Jun-21,New York,Troy,0,1
+2036846,1-Jun-21,Virginia,Newport News,0,1
+2021772,1-Jun-21,Texas,San Antonio,0,1
+2022311,1-Jun-21,Pennsylvania,Philadelphia,1,1
+2022441,1-Jun-21,Michigan,Highland,0,1
+2021954,1-Jun-21,Louisiana,Baton Rouge,0,1
+2024179,31-May-21,Alabama,Montgomery,0,1
+2022117,31-May-21,Kansas,Wichita,0,2
+2020630,31-May-21,Indiana,Indianapolis,0,2
+2021371,31-May-21,Florida,Fort Pierce,0,1
+2021359,31-May-21,Tennessee,Memphis,0,1
+2023450,31-May-21,Idaho,Rathdrum,0,1
+2022252,31-May-21,Ohio,Sandusky,0,1
+2022129,31-May-21,Ohio,Cleveland (Garfield Heights),1,5
+2022170,30-May-21,California,Long Beach,0,1
+2022030,30-May-21,Tennessee,Jackson,0,1
+2021981,30-May-21,Illinois,Rockford,0,1
+2020759,30-May-21,Texas,Dallas,0,1
+2022444,30-May-21,Florida,Arcadia,0,1
+2021279,30-May-21,Pennsylvania,East Petersburg,0,1
+2019315,29-May-21,North Carolina,Reidsville,0,1
+2021816,29-May-21,Texas,Houston,0,1
+2019351,28-May-21,Virginia,Richmond,0,1
+2018568,28-May-21,Indiana,Mishawaka,0,1
+2019235,28-May-21,North Carolina,Durham,0,1
+2018436,28-May-21,Missouri,Saint Louis,0,3
+2019032,28-May-21,Texas,Dallas,0,1
+2022564,28-May-21,Arizona,Graham (county),0,1
+2017580,27-May-21,Texas,Fort Worth,0,2
+2017845,27-May-21,Florida,Miami,0,3
+2018869,27-May-21,Nebraska,Grand Island,0,1
+2018805,27-May-21,Alabama,Montgomery,1,1
+2018639,27-May-21,Tennessee,Memphis,0,3
+2017037,26-May-21,New Mexico,Albuquerque,0,1
+2017034,26-May-21,Texas,Houston,0,1
+2016670,25-May-21,California,Oxnard,0,1
+2015638,25-May-21,Mississippi,Jackson,0,1
+2015304,25-May-21,North Carolina,Durham,0,1
+2015862,25-May-21,Illinois,Chicago,0,1
+2014019,24-May-21,Illinois,Aurora,0,1
+2014169,24-May-21,North Carolina,Winston Salem (Winston-salem),0,1
+2014939,24-May-21,Michigan,Detroit,0,1
+2014913,24-May-21,Illinois,Chicago,0,1
+2017111,24-May-21,Wisconsin,Milwaukee (Brown Deer),0,1
+2014089,24-May-21,Florida,Orlando,0,1
+2014085,24-May-21,Kansas,Wichita,0,1
+2018311,23-May-21,Texas,Waller,1,1
+2012585,23-May-21,Florida,Port Charlotte,0,1
+2013582,22-May-21,California,Imperial Beach,0,2
+2011985,22-May-21,Kentucky,Lexington,0,2
+2039420,22-May-21,Florida,Avon Park,0,3
+2037507,22-May-21,Delaware,Dover,0,1
+2012112,22-May-21,Iowa,Davenport,0,2
+2011610,22-May-21,Indiana,Fort Wayne,1,4
+2012747,22-May-21,Wisconsin,Milwaukee,0,1
+2012506,22-May-21,Alabama,Huntsville,0,1
+2011661,21-May-21,New York,Brooklyn,0,2
+2011069,21-May-21,Georgia,Atlanta,0,1
+2016384,21-May-21,Georgia,Atlanta,0,1
+2012008,21-May-21,Illinois,Champaign,0,1
+2011854,21-May-21,Florida,Lakeland,0,1
+2011527,21-May-21,Alabama,Cottonwood,0,1
+2010527,21-May-21,Illinois,Chicago,1,1
+2013461,21-May-21,Louisiana,Monroe,1,1
+2010074,20-May-21,Virginia,Norfolk,0,1
+2011156,20-May-21,Texas,Dallas,0,1
+2011771,20-May-21,Tennessee,Crossville,0,1
+2010645,20-May-21,Texas,San Antonio,0,1
+2010544,20-May-21,Minnesota,Minneapolis,0,1
+2010267,19-May-21,Ohio,Akron,0,1
+2009028,19-May-21,Kentucky,Lexington,0,1
+2009824,19-May-21,Michigan,Detroit,0,2
+2008789,19-May-21,Michigan,Detroit,1,2
+2009137,19-May-21,Louisiana,Lafayette,1,1
+2010643,19-May-21,Kansas,Topeka,0,1
+2009476,19-May-21,Florida,Tallahassee,0,2
+2010322,19-May-21,Georgia,Atlanta,0,1
+2009000,18-May-21,Virginia,Manassas,0,1
+2007810,18-May-21,District of Columbia,Washington,0,1
+2008666,18-May-21,Indiana,Elkhart,0,1
+2009119,18-May-21,Illinois,Mound City,0,1
+2008227,18-May-21,Texas,Desoto,0,1
+2007119,17-May-21,New York,Bronx,0,1
+2007592,17-May-21,Illinois,Chicago,0,1
+2186128,17-May-21,Maryland,Baltimore,0,1
+2007170,16-May-21,Ohio,Akron,0,1
+2006030,16-May-21,Virginia,Fredericksburg,0,1
+2006266,16-May-21,Connecticut,Hartford,0,1
+2006353,16-May-21,Maryland,Capitol Heights,0,1
+2007088,16-May-21,Tennessee,Johnson City,0,1
+2005169,15-May-21,Pennsylvania,Archbald,1,1
+2006959,15-May-21,Florida,Largo,0,1
+2006878,15-May-21,North Carolina,Greenville,0,1
+2029718,15-May-21,Georgia,Atlanta,0,2
+2005331,15-May-21,Georgia,Atlanta,0,3
+2004699,15-May-21,Michigan,Detroit,0,1
+2006280,15-May-21,Washington,Seattle,0,1
+2006051,14-May-21,New York,New Rochelle,0,1
+2004845,14-May-21,Wisconsin,Milwaukee,0,1
+2006946,14-May-21,Washington,East Wenatchee,0,1
+2006476,14-May-21,Nebraska,Lincoln,0,1
+2004506,14-May-21,Oklahoma,Choctaw,0,1
+2003492,13-May-21,Illinois,Chicago,0,1
+2064529,13-May-21,Virginia,Woodbridge,0,1
+2003839,13-May-21,Florida,Tampa,0,1
+2003727,13-May-21,Illinois,Chicago,0,1
+2003724,13-May-21,Georgia,Savannah,0,1
+2004344,13-May-21,Kentucky,Edmonton,0,1
+2003371,12-May-21,Illinois,Decatur,0,1
+2002261,12-May-21,Illinois,Chicago,0,1
+2003082,12-May-21,Minnesota,Cottage Grove,0,1
+2002019,12-May-21,Maine,Bath (West Bath),0,2
+2002904,12-May-21,Minnesota,Saint Paul,0,1
+2003390,11-May-21,California,Los Angeles,0,1
+2002425,11-May-21,Georgia,Columbus,0,1
+2002480,11-May-21,New York,Brooklyn,0,1
+2001692,11-May-21,Florida,Orlando,0,1
+2000617,10-May-21,Virginia,Colonial Heights,0,1
+2000187,10-May-21,Indiana,South Bend,0,1
+2001500,10-May-21,Texas,Austin,0,1
+2000138,10-May-21,South Carolina,Elgin,0,1
+2001969,10-May-21,Wisconsin,Madison,0,1
+2000923,10-May-21,Texas,Eden,2,1
+2000320,9-May-21,Maryland,Cambridge,0,1
+2179762,9-May-21,Wisconsin,Buffalo (county),0,1
+1999243,9-May-21,Georgia,Sandersville,0,1
+1999149,9-May-21,Florida,Hollywood (Miramar),0,3
+1998983,8-May-21,Arkansas,Little Rock,0,1
+2001407,8-May-21,Alabama,Mobile (Prichard),0,1
+1998563,8-May-21,New York,New York (Manhattan),0,3
+1998591,8-May-21,Minnesota,Saint Paul,0,1
+1998900,8-May-21,Missouri,Saint Charles,0,1
+2000086,8-May-21,Michigan,Muskegon (Muskegon Heights),0,1
+1997944,7-May-21,Virginia,Norfolk,0,1
+1997836,7-May-21,Texas,San Antonio,0,1
+1997760,7-May-21,Georgia,Atlanta,0,1
+1998396,7-May-21,Georgia,Austell,0,1
+1998245,7-May-21,Louisiana,Shreveport,0,1
+1998108,7-May-21,Florida,Clewiston,1,1
+1997036,6-May-21,Louisiana,Opelousas,0,1
+1997471,6-May-21,New York,Bronx,1,1
+1996812,6-May-21,Illinois,Chicago,0,1
+1997573,6-May-21,Florida,Miami,0,1
+1996307,6-May-21,Maryland,Rockville,0,1
+1998231,6-May-21,Idaho,Rigby,0,1
+1996035,5-May-21,Ohio,Columbus,0,1
+1996409,5-May-21,Texas,Houston,0,1
+1995811,5-May-21,North Carolina,Burlington,0,1
+1996250,5-May-21,Missouri,Columbia,0,1
+1996211,5-May-21,Montana,Helena,0,1
+2180230,5-May-21,Michigan,Livingston (county),0,1
+1994935,4-May-21,New York,Buffalo,0,1
+2018038,4-May-21,Ohio,Independence (Seven Hills),0,1
+1995138,4-May-21,Tennessee,Memphis,0,1
+1995168,3-May-21,Pennsylvania,Fairview,0,1
+1993078,2-May-21,Virginia,Norfolk,0,1
+1996259,2-May-21,Georgia,Ellabell,0,1
+1993249,2-May-21,New Mexico,Albuquerque,0,1
+1993579,2-May-21,North Carolina,Statesville,0,1
+1994127,2-May-21,Georgia,Atlanta (Sandy Springs),0,1
+1993826,1-May-21,West Virginia,Clarksburg,0,1
+1994319,1-May-21,New Jersey,Trenton,0,1
+1991902,1-May-21,Michigan,Detroit,0,1
+1992733,1-May-21,Georgia,Savannah,0,1
+1991887,1-May-21,Alabama,Dothan,0,1
+1991962,30-Apr-21,Wisconsin,Janesville,0,1
+1995286,30-Apr-21,Oklahoma,Perry,0,1
+1991678,30-Apr-21,New Jersey,Burlington,1,1
+1991320,29-Apr-21,Texas,Elsa,0,1
+1991229,29-Apr-21,New York,Brooklyn,0,2
+1991978,29-Apr-21,Georgia,Conyers,0,1
+1990976,29-Apr-21,Illinois,Chicago,0,2
+1991261,29-Apr-21,New York,Yonkers,0,1
+1991625,29-Apr-21,Mississippi,Jackson,0,1
+1989590,28-Apr-21,Texas,Fort Worth,0,1
+1990922,28-Apr-21,North Carolina,Shelby,0,1
+1990899,28-Apr-21,North Carolina,Asheboro,0,1
+1990595,28-Apr-21,Virginia,Hampton,0,1
+1988240,27-Apr-21,Indiana,Elkhart,0,1
+1988688,27-Apr-21,Virginia,Richmond,2,3
+1989552,27-Apr-21,Pennsylvania,Easton,2,1
+1987340,26-Apr-21,California,Fresno,0,2
+1988540,26-Apr-21,Texas,Houston,1,1
+1989391,26-Apr-21,Texas,Houston,0,1
+1989193,26-Apr-21,Colorado,Longmont,0,1
+1987517,25-Apr-21,North Carolina,Mooresboro,0,1
+1986462,25-Apr-21,South Carolina,Florence,0,1
+1987251,25-Apr-21,California,Bakersfield,0,1
+1989619,25-Apr-21,Texas,Cameron,0,2
+1987054,25-Apr-21,New York,Brooklyn,1,1
+1987006,25-Apr-21,Florida,Fort Myers,1,1
+1986822,25-Apr-21,Ohio,Toledo,0,1
+1985981,24-Apr-21,Iowa,Des Moines,0,1
+1986521,24-Apr-21,California,Fresno,0,2
+1986304,24-Apr-21,New York,Brooklyn,0,1
+1986910,24-Apr-21,North Dakota,Grand Forks,0,1
+1987767,23-Apr-21,Missouri,Saint Louis,0,1
+1985825,23-Apr-21,Illinois,Champaign,0,1
+1985736,23-Apr-21,California,Bakersfield,0,1
+1985228,23-Apr-21,Michigan,Detroit,0,3
+1984740,23-Apr-21,Georgia,Atlanta,0,1
+1985482,23-Apr-21,Illinois,Chicago,0,1
+1984983,23-Apr-21,Illinois,Chicago,0,1
+1985428,23-Apr-21,Alabama,Hazel Green,0,1
+1984396,22-Apr-21,Florida,Homestead (Leisure City),0,1
+1985090,22-Apr-21,Tennessee,Memphis,0,1
+1984305,22-Apr-21,California,North Fork,0,1
+1984756,22-Apr-21,Georgia,Atlanta (Sandy Springs),0,1
+1985113,22-Apr-21,Illinois,Kankakee,0,1
+1983669,21-Apr-21,Florida,Orlando,0,1
+1983718,21-Apr-21,Michigan,Detroit,0,1
+1984583,21-Apr-21,California,Bakersfield,0,1
+1991142,21-Apr-21,Michigan,Allen Park,0,1
+1983271,21-Apr-21,Florida,Coral Springs,0,1
+1984099,21-Apr-21,Arizona,Phoenix,1,1
+1982815,20-Apr-21,West Virginia,Southside,0,1
+1982688,20-Apr-21,Michigan,Detroit,1,1
+1982587,19-Apr-21,Colorado,Denver,0,1
+1981805,19-Apr-21,Texas,Houston,2,4
+1982624,19-Apr-21,California,Antioch,0,1
+1981709,19-Apr-21,Tennessee,Memphis,0,2
+1982312,19-Apr-21,New Jersey,Jersey City,0,1
+1981197,18-Apr-21,Minnesota,Circle Pines,0,1
+1981462,18-Apr-21,Tennessee,Chattanooga,0,2
+1981020,18-Apr-21,Pennsylvania,Philadelphia,0,2
+1981986,17-Apr-21,Alabama,Montgomery,0,1
+1980368,17-Apr-21,Kentucky,Louisville,0,1
+1981008,17-Apr-21,South Carolina,Union,0,1
+1980090,17-Apr-21,Louisiana,New Orleans,0,1
+1980917,17-Apr-21,Maryland,Baltimore,0,1
+1979991,17-Apr-21,Indiana,South Bend,0,1
+1981308,16-Apr-21,Pennsylvania,Washington,0,2
+1985249,16-Apr-21,Michigan,Port Huron,0,1
+1981063,16-Apr-21,Illinois,Decatur,0,1
+1979363,16-Apr-21,Texas,Houston,0,1
+1980048,16-Apr-21,Nebraska,Omaha,0,1
+1979170,16-Apr-21,Georgia,Augusta,0,1
+1980067,16-Apr-21,Nebraska,Lincoln,0,1
+1978579,15-Apr-21,Alabama,Fairfield,0,1
+1978454,15-Apr-21,Illinois,Chicago,0,1
+1978042,15-Apr-21,Ohio,Middleport,0,1
+1982769,15-Apr-21,North Carolina,Jacksonville,0,1
+1980583,15-Apr-21,Wisconsin,Beloit,0,1
+1977727,14-Apr-21,Illinois,Chicago,0,1
+1978162,14-Apr-21,Wisconsin,Milwaukee,0,2
+1980523,13-Apr-21,Virginia,Ferrum,0,1
+1977543,13-Apr-21,Virginia,Richmond,0,1
+1978566,13-Apr-21,Kentucky,Grayson,0,1
+1976446,13-Apr-21,Connecticut,Branford,1,1
+1975702,12-Apr-21,Tennessee,Knoxville,1,1
+1975927,12-Apr-21,Tennessee,Nashville,1,3
+1975688,12-Apr-21,New Jersey,Newark,0,1
+1975411,12-Apr-21,New York,New York (Manhattan),0,1
+1975963,12-Apr-21,Texas,El Paso,0,1
+1975590,12-Apr-21,Georgia,Atlanta,0,1
+1975657,11-Apr-21,South Carolina,Lamar,0,1
+1976287,11-Apr-21,Michigan,Manistee,0,1
+1975083,10-Apr-21,Missouri,Saint Louis,0,1
+1974088,10-Apr-21,Tennessee,Memphis,1,3
+1973745,10-Apr-21,Iowa,Des Moines,0,3
+2009473,10-Apr-21,Pennsylvania,Lansdale,0,1
+1976634,9-Apr-21,Tennessee,Mcminnville,0,1
+2006985,9-Apr-21,Kentucky,Murray,0,1
+1973844,9-Apr-21,Texas,Fort Worth,1,5
+2167690,9-Apr-21,Texas,Warrenton,0,1
+1975850,9-Apr-21,North Carolina,Salisbury,0,1
+1973077,9-Apr-21,Minnesota,Saint Paul,0,1
+1973421,9-Apr-21,California,Fresno,0,1
+1975467,8-Apr-21,District of Columbia,Washington,0,1
+1972589,8-Apr-21,California,Fresno,0,2
+1979020,8-Apr-21,Pennsylvania,Beaver Creek,0,1
+1972711,8-Apr-21,Louisiana,Shreveport,0,1
+1973393,8-Apr-21,Colorado,Colorado Springs,0,2
+1971359,7-Apr-21,South Carolina,Lugoff,0,1
+1971331,7-Apr-21,New York,New York (Manhattan),0,1
+1975057,7-Apr-21,Missouri,Joplin,0,1
+1971140,7-Apr-21,Florida,Crescent City,0,1
+1978961,7-Apr-21,Florida,Homosassa,0,1
+1984484,7-Apr-21,Virginia,Virginia Beach,0,1
+1970666,6-Apr-21,California,Hanford,0,1
+1970162,6-Apr-21,Virginia,Danville,0,1
+1970227,6-Apr-21,Georgia,Atlanta,0,1
+1970651,6-Apr-21,West Virginia,Clendenin,0,1
+1977910,6-Apr-21,Ohio,Columbus,0,1
+1973403,6-Apr-21,Ohio,Cincinnati,0,1
+1969532,5-Apr-21,California,Fresno,0,1
+1970549,5-Apr-21,Illinois,Chicago,0,1
+1969462,5-Apr-21,New York,Brooklyn,0,1
+1971036,5-Apr-21,Utah,Cedar City,0,1
+1970717,5-Apr-21,Indiana,Lafayette,0,1
+1970600,4-Apr-21,Ohio,Ashtabula,0,2
+1969430,4-Apr-21,Texas,Austin,0,2
+1969538,4-Apr-21,Texas,Houston,0,2
+1968670,4-Apr-21,Ohio,Dayton,0,2
+1968584,4-Apr-21,Iowa,Cedar Falls,0,1
+1971067,4-Apr-21,Utah,Cedar City,0,1
+1978047,4-Apr-21,Pennsylvania,Beaver Springs,0,1
+1968400,4-Apr-21,Illinois,Chicago,0,1
+1969823,4-Apr-21,Louisiana,Shreveport,0,1
+1968823,3-Apr-21,North Carolina,Raleigh,0,1
+1970300,3-Apr-21,Texas,Houston,0,1
+1973011,3-Apr-21,Georgia,Snellville,0,1
+1971926,3-Apr-21,Indiana,South Bend,0,1
+1969885,3-Apr-21,Idaho,Idaho Falls,0,1
+1968956,3-Apr-21,Ohio,Columbus,0,1
+1968000,3-Apr-21,Ohio,Columbus,0,1
+1968186,3-Apr-21,New York,Bronx,1,1
+1969191,3-Apr-21,Tennessee,Jackson,0,2
+1968513,2-Apr-21,Texas,Houston,0,3
+1969705,2-Apr-21,Mississippi,Biloxi,0,1
+1966373,1-Apr-21,Ohio,Columbus,0,1
+1966396,1-Apr-21,Arizona,Phoenix,0,1
+1967044,1-Apr-21,Texas,Fort Worth,0,1
+1968274,30-Mar-21,New York,Syracuse,0,1
+1965484,30-Mar-21,North Carolina,Charlotte,0,1
+1964879,29-Mar-21,Wisconsin,Siren,0,1
+1965627,29-Mar-21,Missouri,Powell,0,1
+1964104,28-Mar-21,Ohio,Columbus,0,1
+1964391,28-Mar-21,Tennessee,Clarksville,0,1
+1963450,28-Mar-21,Utah,Salt Lake City,0,1
+1963765,27-Mar-21,Texas,Fort Worth,0,1
+1963761,27-Mar-21,Pennsylvania,Philadelphia,0,1
+1963171,27-Mar-21,Illinois,Chicago,0,1
+1963239,27-Mar-21,New York,Bronx,0,1
+1964517,27-Mar-21,Tennessee,Crossville,0,1
+1963281,27-Mar-21,Texas,Houston,0,1
+1964110,27-Mar-21,North Dakota,Minot,0,1
+1963317,26-Mar-21,Oklahoma,Oklahoma City,0,1
+1962443,26-Mar-21,Michigan,Detroit,0,1
+1963225,26-Mar-21,Texas,Cypress,0,1
+1962435,26-Mar-21,Kentucky,Louisville (Shively),1,2
+1961205,25-Mar-21,Virginia,King George,1,2
+1962060,25-Mar-21,Florida,Bunnell,0,1
+1961701,25-Mar-21,Mississippi,Jackson,0,1
+1961689,25-Mar-21,Alabama,Birmingham,0,1
+1961456,25-Mar-21,Texas,San Antonio,0,2
+1962548,25-Mar-21,Ohio,Hilliard,0,1
+1960670,24-Mar-21,Ohio,Mansfield,0,1
+1961107,24-Mar-21,California,Oakland,0,3
+1961697,24-Mar-21,Nebraska,Scottsbluff,0,1
+1960348,23-Mar-21,Florida,Tallahassee,1,1
+1959795,22-Mar-21,Texas,Houston,0,1
+1958485,22-Mar-21,Illinois,Decatur,0,1
+1958443,22-Mar-21,Texas,San Antonio,0,1
+1958895,21-Mar-21,Colorado,Pueblo,0,1
+1957972,21-Mar-21,Iowa,Marion,0,1
+1965419,21-Mar-21,Texas,Killeen,1,1
+1958439,21-Mar-21,Texas,San Antonio,0,1
+1957633,20-Mar-21,Colorado,Aurora,0,1
+1958741,20-Mar-21,Virginia,Harrisonburg,0,1
+1957436,20-Mar-21,California,Fresno,1,1
+2180217,20-Mar-21,Michigan,Isabella (county),0,1
+1957701,20-Mar-21,Louisiana,Shreveport,1,1
+1957985,20-Mar-21,Louisiana,New Orleans,0,2
+1957421,19-Mar-21,California,Fresno,1,1
+1957291,19-Mar-21,Arizona,Mesa,1,2
+1957046,19-Mar-21,Oklahoma,Oklahoma City,1,1
+1957179,19-Mar-21,Texas,Houston,1,2
+1957030,19-Mar-21,Virginia,Hampton,0,1
+1958720,18-Mar-21,Tennessee,Nashville,0,1
+1956104,18-Mar-21,North Carolina,Four Oaks,0,1
+1956034,18-Mar-21,South Carolina,Hartsville,0,1
+1955973,18-Mar-21,South Carolina,Columbia,0,1
+1955930,18-Mar-21,Mississippi,Vicksburg,0,1
+1956688,18-Mar-21,Colorado,Kiowa,0,1
+1956098,18-Mar-21,North Carolina,Winston Salem (Winston-salem),0,2
+1957766,18-Mar-21,Iowa,Sioux City,0,1
+1958931,17-Mar-21,Georgia,Marietta,0,1
+1955874,17-Mar-21,Michigan,Bay City,0,1
+1954469,16-Mar-21,Virginia,Harrisonburg,0,1
+1955221,16-Mar-21,Florida,Miami Beach,0,1
+1955216,16-Mar-21,Texas,Houston,0,1
+1954304,16-Mar-21,Georgia,Atlanta,0,1
+1954507,15-Mar-21,Illinois,Chicago,0,1
+2179533,15-Mar-21,Minnesota,Granite Falls,0,1
+1955730,15-Mar-21,Florida,Clewiston,0,2
+1952877,14-Mar-21,New York,Bronx,0,2
+1954745,14-Mar-21,Pennsylvania,Conneautville,0,1
+1952662,14-Mar-21,Illinois,Chicago,0,4
+1952698,14-Mar-21,North Carolina,Durham,0,1
+1952625,14-Mar-21,Georgia,Reidsville,1,2
+1953062,14-Mar-21,New Hampshire,Epping,0,2
+1953202,14-Mar-21,Florida,Tampa,0,4
+2030285,14-Mar-21,New Jersey,Paterson,0,1
+1954027,14-Mar-21,Montana,Power,0,1
+1953511,14-Mar-21,Tennessee,Memphis,0,1
+1954425,13-Mar-21,Iowa,Webster City,0,1
+1952102,13-Mar-21,Virginia,Hampton,0,1
+1954055,13-Mar-21,North Carolina,Shelby,0,1
+1951280,12-Mar-21,Illinois,Chicago,0,1
+1951212,12-Mar-21,District of Columbia,Washington,0,1
+1960597,11-Mar-21,Texas,Odessa,0,1
+1950869,11-Mar-21,Utah,Richmond,0,1
+1951626,11-Mar-21,Pennsylvania,Philadelphia,0,2
+1949835,10-Mar-21,Ohio,Columbus,0,1
+1949923,10-Mar-21,Washington,Lakewood,0,2
+1950048,10-Mar-21,Illinois,Chicago,0,2
+1949810,10-Mar-21,New Jersey,Fair Lawn,0,1
+1948672,9-Mar-21,Kentucky,Louisville,0,2
+1949181,9-Mar-21,Michigan,Detroit,0,1
+1948354,9-Mar-21,Michigan,Detroit,0,1
+1950630,9-Mar-21,Arkansas,Hot Springs National Park (Hot Springs),0,1
+1948013,8-Mar-21,Ohio,Youngstown,0,1
+1948926,8-Mar-21,Oklahoma,Oklahoma City,0,1
+1948001,8-Mar-21,Missouri,Saint Louis,0,1
+1946815,7-Mar-21,Iowa,Waterloo,0,1
+1947791,7-Mar-21,Texas,Houston,0,1
+1947051,7-Mar-21,Ohio,Dayton,0,1
+1947450,7-Mar-21,Indiana,Muncie,0,1
+1946592,6-Mar-21,Nebraska,Unadilla,0,1
+1946395,6-Mar-21,North Carolina,Raleigh,0,1
+1946119,6-Mar-21,Georgia,Atlanta,0,3
+1946599,6-Mar-21,Alabama,Huntsville,0,1
+1946561,5-Mar-21,California,Ceres,0,1
+1946058,5-Mar-21,Florida,Gainesville,1,2
+1944708,4-Mar-21,California,Beverly Hills,0,1
+1945376,4-Mar-21,Michigan,Lansing,0,2
+1945148,4-Mar-21,Illinois,Chicago,0,2
+1945119,4-Mar-21,New York,Penfield,0,1
+1944362,3-Mar-21,District of Columbia,Washington,0,2
+1944162,3-Mar-21,Texas,Houston,1,1
+1942954,2-Mar-21,North Carolina,Nashville,0,1
+1943585,2-Mar-21,Colorado,Grand Junction,0,1
+1942586,2-Mar-21,Florida,Homestead,1,1
+1942056,1-Mar-21,Kentucky,Lexington,0,1
+1942321,1-Mar-21,Ohio,Columbus,0,1
+1941923,28-Feb-21,West Virginia,Charleston,0,1
+1941340,28-Feb-21,Texas,Lubbock,0,1
+1942004,28-Feb-21,Ohio,Zanesville,0,1
+1942140,27-Feb-21,California,San Francisco,0,1
+1940272,27-Feb-21,Maryland,Baltimore,0,3
+1941097,27-Feb-21,Pennsylvania,King Of Prussia,0,1
+1941974,27-Feb-21,Kansas,Wichita,0,3
+1940820,27-Feb-21,Maryland,Halethorpe (Lansdowne),1,1
+1940076,26-Feb-21,Florida,Cocoa,0,1
+1939113,26-Feb-21,Michigan,Detroit,0,1
+1940003,26-Feb-21,Minnesota,Moorhead,0,1
+1939610,25-Feb-21,Texas,Arlington,0,2
+1939038,25-Feb-21,South Carolina,Irmo,1,1
+1938343,25-Feb-21,Maryland,Silver Spring,0,1
+1939978,25-Feb-21,Louisiana,New Orleans,0,1
+1938278,25-Feb-21,Illinois,Chicago,0,2
+1939036,25-Feb-21,South Carolina,Charleston,0,1
+1937857,24-Feb-21,Kentucky,Louisville,0,1
+1937446,24-Feb-21,Florida,Miami,0,1
+1938980,24-Feb-21,Pennsylvania,York,0,1
+1936872,23-Feb-21,Mississippi,Biloxi,0,1
+1937260,23-Feb-21,Ohio,Columbus,0,1
+1936173,22-Feb-21,Texas,San Antonio,0,1
+1937273,22-Feb-21,Ohio,Toledo,0,1
+1934947,21-Feb-21,Illinois,Chicago,0,1
+1935581,21-Feb-21,Iowa,Des Moines,0,1
+1934704,21-Feb-21,Missouri,Kennett,1,4
+1935405,21-Feb-21,Missouri,Saint Joseph,0,1
+1935593,21-Feb-21,California,Oakland,0,1
+1934746,21-Feb-21,Colorado,Colorado Springs,0,1
+1937568,21-Feb-21,Missouri,Joplin,0,1
+1935147,21-Feb-21,Connecticut,Bridgeport,0,1
+1934962,21-Feb-21,Tennessee,Ripley,0,2
+1934833,21-Feb-21,Illinois,Chicago,0,3
+1934365,19-Feb-21,Louisiana,New Orleans,0,1
+1932774,18-Feb-21,Florida,Fort Myers,0,1
+1931591,17-Feb-21,Indiana,Gary,0,1
+1932573,17-Feb-21,Ohio,North Lima,0,1
+1931852,17-Feb-21,Indiana,Indianapolis,0,1
+1930519,16-Feb-21,New York,New York (Manhattan),0,1
+1932396,16-Feb-21,New Hampshire,Nashua,0,1
+1930774,16-Feb-21,Nebraska,South Sioux City,0,1
+1930439,16-Feb-21,Tennessee,Nashville,0,1
+1929529,15-Feb-21,Ohio,Cleveland,0,1
+1930390,15-Feb-21,North Carolina,Cornelius,1,1
+1930139,15-Feb-21,Maryland,Princess Anne,0,1
+1929152,15-Feb-21,Georgia,Macon,0,1
+1929601,15-Feb-21,Illinois,Chicago,0,1
+1928843,14-Feb-21,Ohio,Columbus,0,2
+1929792,14-Feb-21,Louisiana,Folsom,0,1
+1929024,13-Feb-21,Missouri,Saint Louis,1,2
+1928751,13-Feb-21,Wisconsin,Milwaukee,0,1
+1977088,13-Feb-21,Louisiana,Napoleonville,0,1
+1930839,13-Feb-21,Massachusetts,Sunderland,0,0
+1928279,12-Feb-21,Georgia,Macon,0,1
+1928217,12-Feb-21,Indiana,Fort Wayne,0,1
+1928276,12-Feb-21,Georgia,Macon,0,1
+1926964,11-Feb-21,Louisiana,New Orleans,0,2
+1965072,10-Feb-21,Massachusetts,Boston,0,1
+1925523,10-Feb-21,New Mexico,Albuquerque,1,2
+1924260,9-Feb-21,Ohio,Canton,0,1
+1924253,9-Feb-21,Texas,Houston,0,1
+1925213,9-Feb-21,Alabama,Mobile,0,1
+1923921,8-Feb-21,Arkansas,El Dorado,0,1
+2030788,8-Feb-21,New York,Bronx,0,1
+1923676,8-Feb-21,Minnesota,Burnsville,0,1
+1938404,8-Feb-21,Arizona,Casa Grande,0,1
+1924271,8-Feb-21,Pennsylvania,Lancaster,0,1
+1922971,7-Feb-21,Indiana,East Chicago,0,3
+1925009,6-Feb-21,Illinois,Kankakee,0,2
+1923315,6-Feb-21,Missouri,Saint Louis (Spanish Lake),0,1
+1921752,5-Feb-21,Washington,Auburn,0,1
+1922075,5-Feb-21,Ohio,Columbus,0,1
+1921556,5-Feb-21,Illinois,Springfield,0,1
+1927368,5-Feb-21,Indiana,Greentown,0,1
+1921469,5-Feb-21,Michigan,Romulus,0,1
+1926378,5-Feb-21,Maryland,Chestertown,0,2
+1921838,5-Feb-21,Indiana,East Chicago,0,1
+1924175,5-Feb-21,Arkansas,Little Rock,0,1
+1919853,4-Feb-21,Indiana,Indianapolis,0,2
+1920627,4-Feb-21,Alabama,Mobile,1,1
+1919048,3-Feb-21,Illinois,Chicago,0,1
+1919632,3-Feb-21,Arkansas,Little Rock,0,1
+1921547,3-Feb-21,South Carolina,Chesterfield,0,1
+1917952,2-Feb-21,Alabama,Montgomery,0,1
+1918573,2-Feb-21,Texas,Houston,0,1
+1918092,2-Feb-21,Florida,Vero Beach,0,1
+1917645,1-Feb-21,Louisiana,Baton Rouge,0,1
+1917084,1-Feb-21,Florida,Tampa,0,1
+1918640,1-Feb-21,New York,Bronx,0,1
+1920422,1-Feb-21,Georgia,Thomasville,0,1
+1916662,31-Jan-21,Wisconsin,Appleton,1,1
+1917798,31-Jan-21,Ohio,Warren,0,1
+1917685,31-Jan-21,Indiana,Indianapolis,0,1
+1915950,30-Jan-21,Indiana,Fort Wayne,0,1
+1915833,30-Jan-21,Maryland,Baltimore,0,1
+1916236,30-Jan-21,Arizona,Phoenix,0,1
+1915594,29-Jan-21,Pennsylvania,Reading,0,1
+1915869,29-Jan-21,California,Fresno,1,1
+1914798,29-Jan-21,Pennsylvania,Mc Kees Rocks (Mckees Rocks),2,3
+1914701,28-Jan-21,South Carolina,Bennettsville,0,2
+1914015,28-Jan-21,Ohio,Toledo,0,1
+1915675,28-Jan-21,Missouri,Spickard,0,1
+1913718,27-Jan-21,Maryland,Hagerstown,0,1
+1912730,26-Jan-21,Kansas,Topeka,0,2
+1913216,25-Jan-21,Georgia,Atlanta,0,1
+1912703,25-Jan-21,South Dakota,Sioux Falls,0,1
+1911463,24-Jan-21,Virginia,Norton,0,1
+1910813,24-Jan-21,Michigan,Detroit,0,1
+1909498,23-Jan-21,Louisiana,New Orleans,0,2
+1909146,23-Jan-21,Illinois,Chicago,0,1
+1908969,22-Jan-21,Tennessee,Memphis,0,1
+1914428,22-Jan-21,Texas,San Antonio,0,1
+1909188,22-Jan-21,Wisconsin,Milwaukee,0,1
+1911939,22-Jan-21,Tennessee,Crossville,0,1
+1909909,22-Jan-21,Texas,Fort Worth,0,1
+1908632,21-Jan-21,Tennessee,Knoxville,0,1
+1908939,21-Jan-21,Minnesota,Minneapolis,1,0
+1911936,21-Jan-21,Indiana,Argos,0,1
+1909944,21-Jan-21,Oklahoma,Grove,0,1
+1908265,21-Jan-21,Pennsylvania,Philadelphia,0,1
+1908177,21-Jan-21,Missouri,Kansas City,0,1
+1907183,20-Jan-21,Virginia,Virginia Beach,0,1
+1908132,20-Jan-21,California,Lompoc,0,1
+1907295,19-Jan-21,Kentucky,Paducah,0,2
+1906259,19-Jan-21,North Carolina,Charlotte,0,1
+1906220,19-Jan-21,Tennessee,Nashville,0,2
+1906751,19-Jan-21,Wisconsin,Milwaukee,0,1
+1907518,19-Jan-21,Wisconsin,Manitowoc,0,1
+1906588,19-Jan-21,Ohio,Cincinnati,0,1
+1905228,18-Jan-21,Oklahoma,Cherokee (county),0,1
+1905177,18-Jan-21,New York,Bronx,0,1
+1905029,18-Jan-21,Texas,San Antonio,0,1
+1906116,17-Jan-21,Minnesota,Saint Paul,0,1
+1906039,17-Jan-21,Florida,Long Key (Layton),0,1
+1904418,16-Jan-21,Utah,Ogden (Washington Terrace),0,2
+1904722,16-Jan-21,Illinois,Mundelein,0,1
+1903261,15-Jan-21,Ohio,Columbus,0,1
+1903160,15-Jan-21,Louisiana,New Orleans,0,1
+1902410,14-Jan-21,Nebraska,Stevens Creek,0,1
+1903170,14-Jan-21,Mississippi,Columbia,0,1
+1901081,12-Jan-21,Florida,Jacksonville,0,1
+1906683,12-Jan-21,Ohio,Sandusky,0,1
+1900575,11-Jan-21,Illinois,Chicago,0,1
+1900774,11-Jan-21,Texas,Houston,0,1
+1900957,11-Jan-21,Oklahoma,Peggs,0,1
+1899550,10-Jan-21,Illinois,Streamwood,0,1
+1899108,10-Jan-21,Oregon,Portland,0,1
+1900792,10-Jan-21,Mississippi,Holly Springs,0,1
+1900073,10-Jan-21,Texas,Livingston,0,1
+1898668,10-Jan-21,Wisconsin,Sun Prairie,0,1
+1901517,10-Jan-21,Missouri,Saint Louis,0,3
+1899076,9-Jan-21,Ohio,Columbus,0,1
+1900085,9-Jan-21,Nebraska,Alliance,0,1
+1898916,9-Jan-21,New York,New York (Manhattan),0,1
+1898819,9-Jan-21,Kansas,Wichita,0,2
+1897861,9-Jan-21,Florida,Jacksonville,0,1
+1899034,9-Jan-21,Texas,Fort Worth,1,1
+1897866,8-Jan-21,South Carolina,Darlington,0,1
+1900078,8-Jan-21,Mississippi,Laurel,0,1
+1897335,8-Jan-21,Indiana,Fort Wayne,0,1
+1897771,8-Jan-21,Louisiana,New Orleans,0,1
+1897873,8-Jan-21,Alabama,Huntsville,0,1
+1899987,8-Jan-21,Tennessee,Antioch,0,1
+1897955,7-Jan-21,Wisconsin,Milwaukee,0,1
+1896957,7-Jan-21,Ohio,Cincinnati,0,1
+1896827,7-Jan-21,Florida,Jacksonville,0,1
+1896410,6-Jan-21,Georgia,Cleveland,0,1
+1897071,6-Jan-21,Missouri,Saint Louis,0,1
+1896973,6-Jan-21,Louisiana,Alexandria,0,1
+1895894,5-Jan-21,Texas,Houston,0,1
+1896514,5-Jan-21,Maine,Gardiner (Pittston),0,1
+1895532,5-Jan-21,Texas,Georgetown,0,3
+1896064,5-Jan-21,Louisiana,New Orleans,0,1
+1895009,5-Jan-21,Texas,Austin,1,1
+1895412,4-Jan-21,North Carolina,Durham,0,1
+1894398,4-Jan-21,Illinois,Chicago,0,1
+1894949,4-Jan-21,Alabama,Huntsville,0,1
+1894955,4-Jan-21,Michigan,Portage,0,1
+1894088,4-Jan-21,North Carolina,Salisbury,0,1
+1894553,4-Jan-21,Indiana,Indianapolis,0,1
+1895429,3-Jan-21,Texas,Lockhart,0,1
+1893438,3-Jan-21,Michigan,Grand Rapids,0,1
+1893620,2-Jan-21,North Carolina,Wilmington,0,1
+1892782,2-Jan-21,Kentucky,Louisville,0,1
+1894797,2-Jan-21,Ohio,Akron,0,1
+1892912,2-Jan-21,Maine,Waterville,0,1
+1896400,2-Jan-21,Virginia,New Kent (county),0,1
+1896402,2-Jan-21,Virginia,Sussex (county),0,1
+1893691,2-Jan-21,Missouri,Saint Louis,0,1
+1895630,2-Jan-21,Mississippi,Columbus,0,1
+1893917,2-Jan-21,Texas,El Paso,0,1
+1892034,1-Jan-21,Arkansas,Fort Smith,0,7
+1891520,1-Jan-21,Illinois,Chicago,1,1
+1891950,1-Jan-21,Wisconsin,Milwaukee,0,1
+1893945,1-Jan-21,Alaska,Cantwell,0,1
+1892804,1-Jan-21,Texas,Laredo,0,1
+1896621,1-Jan-21,Michigan,Battle Creek,0,1
+1891634,1-Jan-21,Ohio,Columbus,0,1
+1892556,1-Jan-21,Maryland,Baltimore,0,1
+1891537,1-Jan-21,Texas,Houston,0,1
+1891933,1-Jan-21,California,Fresno,0,1
+1892909,1-Jan-21,Ohio,Columbus,0,1
+1891535,1-Jan-21,Texas,Houston,0,1
+1891395,1-Jan-21,New York,Brooklyn,0,1
+1896728,31-Dec-20,Texas,Houston,0,1
+1896527,31-Dec-20,Maryland,Ridge,0,1
+1891530,31-Dec-20,Illinois,Chicago,0,1
+1891683,31-Dec-20,Indiana,Richmond,0,1
+1891114,30-Dec-20,Mississippi,Sturgis,0,1
+1891094,30-Dec-20,Oklahoma,Broken Arrow,0,1
+1889554,29-Dec-20,Mississippi,Tunica,0,1
+1890365,29-Dec-20,Virginia,Woodbridge,0,1
+1890229,29-Dec-20,Texas,Fort Worth,0,1
+1891087,29-Dec-20,Oklahoma,Broken Arrow,0,1
+1932173,29-Dec-20,California,Barstow,0,1
+1890113,29-Dec-20,Kansas,Topeka,0,1
+1890733,29-Dec-20,Alabama,Decatur,0,1
+1889722,29-Dec-20,Alabama,Dothan,0,1
+1889279,28-Dec-20,Tennessee,Memphis,0,3
+1888502,28-Dec-20,Michigan,Detroit,0,2
+1889232,28-Dec-20,Colorado,Denver,0,2
+1983267,27-Dec-20,Wisconsin,Columbia (county),0,1
+1889545,26-Dec-20,Illinois,Lake In The Hills,0,1
+1887635,26-Dec-20,Florida,Tallahassee,0,1
+1887291,26-Dec-20,Missouri,Springfield,0,1
+1886998,25-Dec-20,Georgia,Atlanta,0,1
+1888621,25-Dec-20,Wisconsin,Madison,0,1
+1887732,25-Dec-20,Texas,San Antonio,0,2
+1887491,25-Dec-20,Missouri,Columbia,0,1
+1886441,25-Dec-20,Georgia,Macon,0,1
+1887209,25-Dec-20,Michigan,Detroit,0,1
+1914622,25-Dec-20,New York,Albany,0,1
+1886310,24-Dec-20,California,Los Angeles,0,1
+1889212,24-Dec-20,Wisconsin,Madison,0,1
+1886070,24-Dec-20,South Carolina,Hartsville,0,1
+1886977,24-Dec-20,Michigan,Detroit,0,2
+1885137,23-Dec-20,Arkansas,Little Rock,0,1
+1885126,23-Dec-20,Iowa,Cedar Rapids,0,1
+1884934,23-Dec-20,Michigan,Detroit,0,1
+1884589,23-Dec-20,Texas,San Antonio,1,1
+1884817,22-Dec-20,Illinois,Chicago,0,1
+1884641,22-Dec-20,Michigan,Grand Rapids,0,2
+1884785,22-Dec-20,Ohio,Toledo,0,1
+1884606,21-Dec-20,Ohio,Lima (Elida),0,1
+1883740,21-Dec-20,Vermont,Bellows Falls (Rockingham),0,1
+1883355,21-Dec-20,Kentucky,Louisville,0,1
+1883109,20-Dec-20,Tennessee,Memphis,1,1
+1882410,20-Dec-20,South Carolina,Greenville,0,2
+1894523,20-Dec-20,West Virginia,Fairmont,0,1
+1883586,20-Dec-20,Ohio,Martinsville,0,1
+1882264,20-Dec-20,Texas,Fort Worth,0,1
+1883709,20-Dec-20,Connecticut,Stamford,0,1
+1881461,19-Dec-20,Kentucky,Corbin,1,1
+1883903,19-Dec-20,Oklahoma,Lawton,0,1
+1881644,19-Dec-20,Michigan,Albion,1,1
+1881727,19-Dec-20,California,Milpitas,0,1
+1881966,19-Dec-20,Maryland,Hyattsville (Landover),0,1
+1932754,19-Dec-20,Wyoming,Casper,0,1
+1880827,18-Dec-20,Tennessee,Pelham,0,1
+1882114,18-Dec-20,Ohio,Columbus,0,2
+1881335,18-Dec-20,Georgia,Thomasville,0,1
+1881428,18-Dec-20,North Carolina,Knightdale,0,1
+1881236,18-Dec-20,Illinois,Chicago,0,1
+1881451,18-Dec-20,Maryland,Baltimore,0,1
+1881004,18-Dec-20,Texas,Houston,0,1
+1880851,17-Dec-20,Kansas,Riley (county),0,1
+1879861,17-Dec-20,Florida,Homestead (Princeton),1,2
+1880099,16-Dec-20,Rhode Island,West Kingston (Richmond),0,1
+1879269,16-Dec-20,Ohio,Columbus (Obetz),0,2
+1879143,16-Dec-20,Georgia,Atlanta,0,1
+1883367,16-Dec-20,Arkansas,West Helena,0,1
+1878634,15-Dec-20,Texas,San Antonio,0,1
+1878512,15-Dec-20,New York,Bronx,0,1
+1879113,15-Dec-20,Minnesota,Minneapolis (Bloomington),0,2
+1879087,15-Dec-20,Wisconsin,Milwaukee,0,1
+1879810,15-Dec-20,Massachusetts,Peabody,0,1
+1879702,15-Dec-20,Louisiana,Geismar,0,1
+1937203,15-Dec-20,West Virginia,Mount Hope,0,1
+1878683,14-Dec-20,California,Petaluma,0,1
+1877707,14-Dec-20,District of Columbia,Washington,0,1
+1878383,14-Dec-20,Georgia,Atlanta,0,1
+1890851,14-Dec-20,Georgia,Ellabell,0,1
+1877441,14-Dec-20,Connecticut,Hartford,0,1
+1878083,14-Dec-20,Pennsylvania,Philadelphia,0,2
+1879507,13-Dec-20,Indiana,Gary,0,1
+1878598,13-Dec-20,Idaho,Burley,0,1
+1878593,13-Dec-20,Illinois,Rockford,0,1
+1882287,13-Dec-20,Texas,Houston,0,2
+1997682,13-Dec-20,Michigan,Livingston (county),0,1
+1881343,13-Dec-20,Wisconsin,Beloit,0,1
+1876813,13-Dec-20,Arizona,Chandler,0,1
+1878120,13-Dec-20,Oregon,Eugene,0,1
+1876620,12-Dec-20,Maryland,Baltimore,0,1
+1890827,12-Dec-20,Virginia,Winchester,0,2
+1983257,12-Dec-20,Wisconsin,Polk (county),0,1
+1875480,12-Dec-20,Ohio,Cincinnati,0,1
+1878832,12-Dec-20,Hawaii,Kahului,0,1
+1877120,12-Dec-20,Mississippi,Jackson,0,1
+1879554,11-Dec-20,Ohio,Cincinnati,0,1
+1882591,11-Dec-20,Washington,Auburn,0,1
+1875439,11-Dec-20,Virginia,Newport News,0,1
+1877890,10-Dec-20,Tennessee,Lenoir City,0,1
+1874806,10-Dec-20,Missouri,Saint Louis (Ferguson),0,1
+1874381,10-Dec-20,Michigan,Detroit,0,1
+1874256,9-Dec-20,Oklahoma,Oklahoma City,0,1
+1874023,9-Dec-20,Kansas,Wichita,0,1
+1873876,8-Dec-20,Ohio,Zanesville,0,1
+1873563,8-Dec-20,South Carolina,Holly Hill,0,2
+1873132,8-Dec-20,Alabama,Huntsville,0,1
+1888859,8-Dec-20,Louisiana,Baldwin,0,1
+1873798,8-Dec-20,Louisiana,Lacombe,2,3
+1872505,7-Dec-20,Illinois,Chicago,0,1
+1871950,7-Dec-20,California,Oakland,0,1
+1874724,7-Dec-20,Ohio,Bellefontaine,0,1
+1871646,6-Dec-20,Kansas,Wichita,0,1
+1871655,6-Dec-20,Kansas,Wichita,0,1
+1873203,6-Dec-20,Texas,Killeen,0,1
+1870939,6-Dec-20,Michigan,Detroit,0,1
+1872445,6-Dec-20,Missouri,Joplin,0,1
+1871476,6-Dec-20,Connecticut,Stamford,0,1
+1870677,6-Dec-20,Wisconsin,Milwaukee,0,1
+1871569,6-Dec-20,Tennessee,Memphis,0,1
+1870050,5-Dec-20,Florida,Miami (Cutler Bay),0,3
+1872203,5-Dec-20,Florida,Stuart,0,1
+1870108,5-Dec-20,Mississippi,Jackson,0,2
+1869478,4-Dec-20,Ohio,Columbus,0,1
+1872658,4-Dec-20,South Carolina,Orangeburg,0,1
+1870315,4-Dec-20,Ohio,Madison,0,1
+1870281,4-Dec-20,Pennsylvania,Duke Center,0,2
+1875470,4-Dec-20,Ohio,Cincinnati,0,1
+1868496,3-Dec-20,Alabama,Holly Pond,0,1
+1869489,3-Dec-20,Florida,Port Saint Lucie,0,1
+1868794,3-Dec-20,Pennsylvania,Snow Shoe,0,1
+1870351,2-Dec-20,Ohio,Cleveland,0,1
+1867864,2-Dec-20,Washington,Federal Way,0,1
+1868785,2-Dec-20,Massachusetts,Lowell,0,1
+1866898,1-Dec-20,Texas,Bridge City,0,1
