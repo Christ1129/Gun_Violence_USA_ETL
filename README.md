@@ -1,6 +1,6 @@
 # Gun_Violence_USA_ETL
 
-By Elton Cumming, Christian Tourteau
+By Elton Cummings, III , Christian Tourteau
 Summary: the phenomenon of gun violence is very present in the minds of all who live in the United States currently. This has targeted our curiosity to research this topic.. This database could be useful in the process of researching guns in the USA
 Extraction
 This project utilized two sources of data to analyze information about Gun Violence in USA. We used 2 datasets from  Kaggle and archives.org. The sources for our dataset are as follows: 
