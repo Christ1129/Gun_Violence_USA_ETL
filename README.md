@@ -16,6 +16,7 @@ During the transformation process, we performed the following:
 •	We rename the columns
 
 Load
+
 our last step was to transfer our final output to a database. we hosted this data in a relational database (using Postgres) which will support the column and row structure of our dataframes.
 
 Conclusion
