@@ -26,6 +26,9 @@ During the transformation process, we performed the following:
 
 •	We rename the columns
 
+<img width="392" alt="Screenshot readme" src="https://user-images.githubusercontent.com/100292828/173199237-5c03c9f8-a761-4f1f-8057-5fedffbab2d7.png">
+
+
 # Load
 
 our last step was to transfer our final output to a database. we hosted this data in a relational database (using Postgres) which will support the column and row structure of our dataframes.
