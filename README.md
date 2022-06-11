@@ -43,7 +43,7 @@ tourteau.christian@gmail.com
 
 https://github.com/Christ1129
 
-•	Elton Cummings
+•	Elton Cummings, III
 
 treycummings1996@gmail.com
 
