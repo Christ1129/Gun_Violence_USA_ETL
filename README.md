@@ -19,8 +19,11 @@ This project utilized two sources of data to analyze information about Gun Viole
 Transformation
 
 During the transformation process, we performed the following:
+
 •	we analyzed our files by limiting ourselves to useful information. 
+
 •	We filtered and removed unnecessary columns to limit our dataset to columns relevant to our work ( operator’s column and the address column).
+
 •	We rename the columns
 
 Load
@@ -36,9 +39,11 @@ Contact :
 
 •	Christian Tourteau
 tourteau.christian@gmail.com
+
 https://github.com/Christ1129
 
 •	Elton Cummings
+
 treycummings1996@gmail.com
 
 
