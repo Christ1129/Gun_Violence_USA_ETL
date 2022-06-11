@@ -38,6 +38,7 @@ The databases that were created from the extraction, transformation and loading 
 Contact : 
 
 •	Christian Tourteau
+
 tourteau.christian@gmail.com
 
 https://github.com/Christ1129
