@@ -4,9 +4,11 @@ By Elton Cummings, III , Christian Tourteau
 Summary: the phenomenon of gun violence is very present in the minds of all who live in the United States currently. This has targeted our curiosity to research this topic.. This database could be useful in the process of researching guns in the USA
 Extraction
 This project utilized two sources of data to analyze information about Gun Violence in USA. We used 2 datasets from  Kaggle and archives.org. The sources for our dataset are as follows: 
+
 •	Accidental deaths
 •	Accidental injuries
 •	Mass shooting
+
 Transformation
 During the transformation process, we performed the following:
 •	we analyzed our files by limiting ourselves to useful information. 
