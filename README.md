@@ -2,11 +2,11 @@
 
 By Elton Cummings, III , Christian Tourteau
 
-Summary:
+# Summary:
 
 the phenomenon of gun violence is very present in the minds of all who live in the United States currently. This has targeted our curiosity to research this topic.. This database could be useful in the process of researching guns in the USA
 
-Extraction
+# Extraction
 
 This project utilized two sources of data to analyze information about Gun Violence in USA. We used 2 datasets from  Kaggle and archives.org. The sources for our dataset are as follows: 
 
@@ -16,7 +16,7 @@ This project utilized two sources of data to analyze information about Gun Viole
 
 •	Mass shooting
 
-Transformation
+# Transformation
 
 During the transformation process, we performed the following:
 
@@ -26,11 +26,11 @@ During the transformation process, we performed the following:
 
 •	We rename the columns
 
-Load
+# Load
 
 our last step was to transfer our final output to a database. we hosted this data in a relational database (using Postgres) which will support the column and row structure of our dataframes.
 
-Conclusion
+# Conclusion
 
 The databases that were created from the extraction, transformation and loading process during this project may be useful for researchers in the field of gun violence in the USA. However, there are limitations to this project, due to the available data (only csv). In future research, we could join data on police by state and see if there is a correlation between the number of police officers and the crime rate by state.
 
